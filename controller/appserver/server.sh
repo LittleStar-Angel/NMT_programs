@@ -1,0 +1,1 @@
+THEANO_FLAGS=mode=FAST_RUN,optimizer=fast_compile,floatX=float32,lib.cnmem=1,device=cpu ~/anaconda2/bin/python NMTappserver.py -c /home/luyi/controller/config/NMTappserver.cfg

@@ -1,0 +1,53 @@
+<!doctype html>
+    <title>Upload new File</title>
+    <h1 style="text-align:center">Upload new File</h1>
+    <body>
+    <label style="text-align:center">
+    <form action="upzhdict" method=post target="upzhdict" enctype=multipart/form-data>
+      <p>UpLoad Zh2PT Dict:</p>
+      <input type=file name=file>
+         <input type=submit value=Upload>
+    </form>
+    <p style="text-align:center"><iframe align="middle" id="upzhdict" width="700" height="30" name="upzhdict" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes" frameborder="no" ></iframe></p>
+ 
+    </iframe>
+    </label>
+
+   <p style="text-align:center">====================================================================</p>
+    <label style="text-align:center">
+    <form action="upptdict" target="upptdict" method=post enctype=multipart/form-data>
+      <p>UpLoad PT2ZH Dict:</p>
+      <input type=file name=file>
+         <input type=submit value=Upload>
+    </form>
+    <p style="text-align:center"><iframe align="middle" id="upptdict" width="700" height="30" name="upptdict" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes" frameborder="no" ></iframe></p>
+     
+    </iframe>
+    </label>
+
+    <p style="text-align:center">====================================================================</p>
+
+    <label style="text-align:center">
+    <form action="regmodel" target="regmodel" method=post enctype=multipart/form-data>
+      <p>UpLoad RexModel Dict:</p>
+      <input type=file name=file>
+         <input type=submit value=Upload>
+    </form>
+    <p style="text-align:center"><iframe align="regmodel" id="restart" width="700" height="30" name="regmodel" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes" frameborder="no" ></iframe></p>
+       
+    </iframe>
+    </label>
+     <p style="text-align:center">====================================================================</p>
+    </label>
+    <label style="text-align:center">
+    <form action="restart"  target="restart" method=post enctype=multipart/form-data>
+      <p>Restart Sever:</p>
+         <input tpye="radio" name="Restart" value="Restart" checked hidden>
+         <input type=submit value=Restart>
+    </form>
+    <p style="text-align:center"><iframe align="middle" id="restart" width="700" height="30" name="restart" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes" frameborder="no" ></iframe></p>
+    </label>
+   
+
+    </body>
+    </html>

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /home/luyi/controller/appserver
+nohup /home/luyi/anaconda3/bin/python3 ./Rex2Translate_sever_v2.py > ../logs/rule.log 2> ../logs/rule.err &
+echo $!>./PID

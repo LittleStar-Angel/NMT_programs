@@ -1,0 +1,6 @@
+#!/bin/bash
+# A integrated method to run the work and moses decoder, Usage: ./run_all and then the work and the moses decoder will start up
+MYDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+$MYDIR/run_worker
+$MYDIR/run_moses 

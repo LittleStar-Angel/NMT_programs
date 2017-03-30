@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /home/luyi/controller/update
+nohup /home/luyi/anaconda3/bin/python ./upload.py >../logs/upload.log 2> ../logs/upload.err &
+ 

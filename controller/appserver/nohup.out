@@ -1,0 +1,195 @@
+2017-03-23 16:58:54,012 - server - Loaded config from file ../config/appserver.cfg
+2017-03-23 16:58:54,012 - server - {'zh-en': set(['']), 'pt-zh': set(['']), 'zh-pt': set(['']), 'pt-en': set(['']), 'en-zh': set(['']), 'en-pt': set([''])}
+2017-03-23 16:58:54,015 - werkzeug -  * Running on http://localhost:8200/ (Press CTRL+C to quit)
+2017-03-23 16:59:05,341 - server - Received new task [POST]
+2017-03-23 16:59:05,865 - werkzeug - 172.17.0.3 - - [23/Mar/2017 16:59:05] "POST /controller HTTP/1.1" 200 -
+2017-03-23 16:59:06,742 - server - Received new task [POST]
+2017-03-23 16:59:07,638 - werkzeug - 172.17.0.3 - - [23/Mar/2017 16:59:07] "POST /controller HTTP/1.1" 200 -
+2017-03-23 16:59:45,480 - server - Received new task [POST]
+2017-03-23 16:59:46,004 - werkzeug - 172.17.0.3 - - [23/Mar/2017 16:59:46] "POST /controller HTTP/1.1" 200 -
+2017-03-23 16:59:46,021 - server - Received new task [POST]
+2017-03-23 16:59:46,428 - werkzeug - 172.17.0.3 - - [23/Mar/2017 16:59:46] "POST /controller HTTP/1.1" 200 -
+2017-03-23 16:59:49,942 - server - Received new task [POST]
+2017-03-23 16:59:50,416 - werkzeug - 172.17.0.3 - - [23/Mar/2017 16:59:50] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:00:13,703 - server - Loaded config from file ../config/appserver.cfg
+2017-03-23 17:00:13,704 - server - {'zh-en': set(['']), 'pt-zh': set(['']), 'zh-pt': set(['']), 'pt-en': set(['']), 'en-zh': set(['']), 'en-pt': set([''])}
+2017-03-23 17:00:13,705 - werkzeug -  * Running on http://localhost:8200/ (Press CTRL+C to quit)
+2017-03-23 17:00:20,340 - server - Received new task [POST]
+2017-03-23 17:00:20,915 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:00:20] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:00:22,638 - server - Received new task [POST]
+2017-03-23 17:00:23,158 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:00:23] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:00:42,540 - server - Received new task [POST]
+2017-03-23 17:00:43,117 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:00:43] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:00:44,440 - server - Received new task [POST]
+2017-03-23 17:00:44,960 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:00:44] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:04:33,660 - server - Received new task [POST]
+2017-03-23 17:04:37,993 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:04:37] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:05:38,942 - server - Received new task [POST]
+2017-03-23 17:05:43,355 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:05:43] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:05:43,369 - server - Received new task [POST]
+2017-03-23 17:05:47,470 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:05:47] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:06:49,447 - server - Received new task [POST]
+2017-03-23 17:06:50,066 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:06:50] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:06:54,744 - server - Received new task [POST]
+2017-03-23 17:06:55,266 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:06:55] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:06:57,046 - server - Received new task [POST]
+2017-03-23 17:06:57,996 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:06:57] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:06:58,010 - server - Received new task [POST]
+2017-03-23 17:06:58,862 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:06:58] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:07:21,144 - server - Received new task [POST]
+2017-03-23 17:07:21,517 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:07:21] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:07:21,842 - server - Received new task [POST]
+2017-03-23 17:07:22,862 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:07:22] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:07:32,876 - server - Received new task [POST]
+2017-03-23 17:07:38,935 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:07:38] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:07:44,349 - server - Received new task [POST]
+2017-03-23 17:07:49,328 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:07:49] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:07:49,344 - server - Received new task [POST]
+2017-03-23 17:07:51,149 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:07:51] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:07:51,163 - server - Received new task [POST]
+2017-03-23 17:07:55,398 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:07:55] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:07:55,419 - server - Received new task [POST]
+2017-03-23 17:07:58,957 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:07:58] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:07:58,971 - server - Received new task [POST]
+2017-03-23 17:08:00,776 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:08:00] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:08:54,357 - server - Received new task [POST]
+2017-03-23 17:09:01,377 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:09:01] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:09:48,278 - server - Received new task [POST]
+2017-03-23 17:09:55,038 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:09:55] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:09:55,061 - server - Received new task [POST]
+2017-03-23 17:09:59,802 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:09:59] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:09:59,818 - server - Received new task [POST]
+2017-03-23 17:10:08,524 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:10:08] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:10:08,552 - server - Received new task [POST]
+2017-03-23 17:10:13,283 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:10:13] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:10:13,298 - server - Received new task [POST]
+2017-03-23 17:10:14,341 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:10:14] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:10:14,354 - server - Received new task [POST]
+2017-03-23 17:10:20,566 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:10:20] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:10:20,584 - server - Received new task [POST]
+2017-03-23 17:10:22,486 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:10:22] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:10:22,507 - server - Received new task [POST]
+2017-03-23 17:10:25,968 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:10:25] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:10:25,983 - server - Received new task [POST]
+2017-03-23 17:10:27,027 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:10:27] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:10:27,041 - server - Received new task [POST]
+2017-03-23 17:10:33,253 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:10:33] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:19:48,440 - server - Received new task [POST]
+2017-03-23 17:19:50,622 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:19:50] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:19:50,642 - server - Received new task [POST]
+2017-03-23 17:19:54,130 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:19:54] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:19:54,144 - server - Received new task [POST]
+2017-03-23 17:19:55,204 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:19:55] "POST /controller HTTP/1.1" 200 -
+2017-03-23 17:19:55,218 - server - Received new task [POST]
+2017-03-23 17:20:01,561 - werkzeug - 172.17.0.3 - - [23/Mar/2017 17:20:01] "POST /controller HTTP/1.1" 200 -
+2017-03-24 22:43:46,744 - server - Received new task [POST]
+2017-03-24 22:43:47,695 - werkzeug - 172.17.0.3 - - [24/Mar/2017 22:43:47] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:31:33,669 - server - Received new task [POST]
+2017-03-27 13:31:38,973 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:31:38] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:31:39,003 - server - Received new task [POST]
+2017-03-27 13:31:43,931 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:31:43] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:31:43,960 - server - Received new task [POST]
+2017-03-27 13:31:48,898 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:31:48] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:31:48,914 - server - Received new task [POST]
+2017-03-27 13:31:50,986 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:31:50] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:31:51,013 - server - Received new task [POST]
+2017-03-27 13:31:55,838 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:31:55] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:31:55,854 - server - Received new task [POST]
+2017-03-27 13:31:57,918 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:31:57] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:31:57,932 - server - Received new task [POST]
+2017-03-27 13:31:59,987 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:31:59] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:32:00,015 - server - Received new task [POST]
+2017-03-27 13:32:04,165 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:32:04] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:32:04,181 - server - Received new task [POST]
+2017-03-27 13:32:06,253 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:32:06] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:32:06,279 - server - Received new task [POST]
+2017-03-27 13:32:10,889 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:32:10] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:32:10,904 - server - Received new task [POST]
+2017-03-27 13:32:12,969 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:32:12] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:32:12,983 - server - Received new task [POST]
+2017-03-27 13:32:17,322 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:32:17] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:32:17,349 - server - Received new task [POST]
+2017-03-27 13:32:20,203 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:32:20] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:48:37,704 - server - Received new task [POST]
+2017-03-27 13:48:46,419 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:48:46] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:48:46,449 - server - Received new task [POST]
+2017-03-27 13:48:49,305 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:48:49] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:48:49,334 - server - Received new task [POST]
+2017-03-27 13:48:54,269 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:48:54] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:48:54,299 - server - Received new task [POST]
+2017-03-27 13:48:59,350 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:48:59] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:53:52,267 - server - Received new task [POST]
+2017-03-27 13:53:52,629 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:53:52] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:56:21,491 - server - Received new task [POST]
+2017-03-27 13:56:21,492 - server - Call to worker http://10.119.181.207:3002/ failed: {u'targetLang': u'pt', u'text': u'\u4f60\u597d\n', u'alignmentInfo': u'true', u'sourceLang': u'zh', u'action': u'translate', u'nBestSize': 1}
+2017-03-27 13:56:21,493 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:56:21] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:56:24,958 - server - Received new task [POST]
+2017-03-27 13:56:25,321 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:56:25] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:56:26,790 - server - Received new task [POST]
+2017-03-27 13:56:27,155 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:56:27] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:56:43,750 - server - Received new task [POST]
+2017-03-27 13:56:43,762 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:56:43] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:56:52,212 - server - Received new task [POST]
+2017-03-27 13:56:52,230 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:56:52] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:57:24,557 - server - Received new task [POST]
+2017-03-27 13:57:24,575 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:57:24] "POST /controller HTTP/1.1" 200 -
+2017-03-27 13:57:47,603 - server - Received new task [POST]
+2017-03-27 13:57:47,622 - werkzeug - 172.17.0.3 - - [27/Mar/2017 13:57:47] "POST /controller HTTP/1.1" 200 -
+2017-03-27 14:35:56,790 - server - Loaded config from file ../config/appserver.cfg
+2017-03-27 14:35:56,790 - server - {'zh-en': set(['']), 'pt-zh': set(['']), 'zh-pt': set(['']), 'pt-en': set(['']), 'en-zh': set(['']), 'en-pt': set([''])}
+2017-03-27 14:35:56,793 - werkzeug -  * Running on http://localhost:8200/ (Press CTRL+C to quit)
+2017-03-27 14:36:38,455 - server - Received new task [POST]
+2017-03-27 14:36:38,476 - werkzeug - 172.17.0.3 - - [27/Mar/2017 14:36:38] "POST /controller HTTP/1.1" 200 -
+2017-03-27 14:38:15,012 - server - Received new task [POST]
+2017-03-27 14:38:15,027 - werkzeug - 172.17.0.3 - - [27/Mar/2017 14:38:15] "POST /controller HTTP/1.1" 200 -
+2017-03-27 14:43:04,706 - server - Received new task [POST]
+2017-03-27 14:43:04,714 - werkzeug - 172.17.0.3 - - [27/Mar/2017 14:43:04] "POST /controller HTTP/1.1" 200 -
+2017-03-27 14:43:22,000 - server - Received new task [POST]
+2017-03-27 14:43:22,009 - werkzeug - 172.17.0.3 - - [27/Mar/2017 14:43:22] "POST /controller HTTP/1.1" 200 -
+2017-03-27 14:43:26,622 - server - Received new task [POST]
+2017-03-27 14:43:26,631 - werkzeug - 172.17.0.3 - - [27/Mar/2017 14:43:26] "POST /controller HTTP/1.1" 200 -
+2017-03-27 14:43:28,696 - server - Received new task [POST]
+2017-03-27 14:43:28,704 - werkzeug - 172.17.0.3 - - [27/Mar/2017 14:43:28] "POST /controller HTTP/1.1" 200 -
+2017-03-27 14:43:28,926 - server - Received new task [POST]
+2017-03-27 14:43:28,935 - werkzeug - 172.17.0.3 - - [27/Mar/2017 14:43:28] "POST /controller HTTP/1.1" 200 -
+2017-03-27 14:43:29,126 - server - Received new task [POST]
+2017-03-27 14:43:29,135 - werkzeug - 172.17.0.3 - - [27/Mar/2017 14:43:29] "POST /controller HTTP/1.1" 200 -
+2017-03-27 14:43:29,319 - server - Received new task [POST]
+2017-03-27 14:43:29,327 - werkzeug - 172.17.0.3 - - [27/Mar/2017 14:43:29] "POST /controller HTTP/1.1" 200 -
+2017-03-27 14:43:38,992 - server - Received new task [POST]
+2017-03-27 14:43:43,781 - werkzeug - 172.17.0.3 - - [27/Mar/2017 14:43:43] "POST /controller HTTP/1.1" 200 -
+2017-03-27 14:43:58,429 - server - Received new task [POST]
+2017-03-27 14:44:01,611 - werkzeug - 172.17.0.3 - - [27/Mar/2017 14:44:01] "POST /controller HTTP/1.1" 200 -
+2017-03-27 14:44:01,615 - server - Received new task [POST]
+2017-03-27 14:44:02,605 - werkzeug - 172.17.0.3 - - [27/Mar/2017 14:44:02] "POST /controller HTTP/1.1" 200 -
+2017-03-29 14:58:25,847 - server - Loaded config from file ../config/appserver.cfg
+2017-03-29 14:58:25,847 - server - {'zh-en': set(['']), 'pt-zh': set(['']), 'zh-pt': set(['']), 'pt-en': set(['']), 'en-zh': set(['']), 'en-pt': set([''])}
+Traceback (most recent call last):
+  File "appserver.py", line 256, in <module>
+    main()
+  File "appserver.py", line 253, in main
+    app.run(host="", port=app.config['PORT'], threaded=True)
+  File "/home/luyi/anaconda2/lib/python2.7/site-packages/flask/app.py", line 843, in run
+    run_simple(host, port, self, **options)
+  File "/home/luyi/anaconda2/lib/python2.7/site-packages/werkzeug/serving.py", line 694, in run_simple
+    inner()
+  File "/home/luyi/anaconda2/lib/python2.7/site-packages/werkzeug/serving.py", line 656, in inner
+    fd=fd)
+  File "/home/luyi/anaconda2/lib/python2.7/site-packages/werkzeug/serving.py", line 544, in make_server
+    passthrough_errors, ssl_context, fd=fd)
+  File "/home/luyi/anaconda2/lib/python2.7/site-packages/werkzeug/serving.py", line 464, in __init__
+    HTTPServer.__init__(self, (host, int(port)), handler)
+  File "/home/luyi/anaconda2/lib/python2.7/SocketServer.py", line 417, in __init__
+    self.server_bind()
+  File "/home/luyi/anaconda2/lib/python2.7/BaseHTTPServer.py", line 108, in server_bind
+    SocketServer.TCPServer.server_bind(self)
+  File "/home/luyi/anaconda2/lib/python2.7/SocketServer.py", line 431, in server_bind
+    self.socket.bind(self.server_address)
+  File "/home/luyi/anaconda2/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+2017-03-30 13:51:58,063 - server - Loaded config from file ../config/appserver.cfg
+2017-03-30 13:51:58,063 - server - {'zh-en': set(['']), 'pt-zh': set(['']), 'zh-pt': set(['']), 'pt-en': set(['']), 'en-zh': set(['']), 'en-pt': set([''])}
+2017-03-30 13:51:58,066 - werkzeug -  * Running on http://localhost:8200/ (Press CTRL+C to quit)
+2017-03-30 17:18:42,863 - server - Received new task [POST]
+2017-03-30 17:18:42,863 - server - --->zh-en

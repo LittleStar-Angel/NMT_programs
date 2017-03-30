@@ -1,0 +1,438 @@
+2017-03-23 17:00:38,496 - worker - Merged configuration file: ../config/worker.cfg
+2017-03-23 17:00:38,496 - worker - Configuration loaded
+2017-03-23 17:00:38,496 - worker - Starting XML-RPC server on port 3333
+2017-03-23 17:00:38,516 - worker - Server started
+2017-03-23 17:00:42,543 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:00:43] "POST / HTTP/1.1" 200 -
+2017-03-23 17:00:44,442 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:00:44] "POST / HTTP/1.1" 200 -
+2017-03-23 17:04:33,662 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:04:37] "POST / HTTP/1.1" 200 -
+2017-03-23 17:05:38,944 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:05:43] "POST / HTTP/1.1" 200 -
+2017-03-23 17:05:43,370 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:05:47] "POST / HTTP/1.1" 200 -
+2017-03-23 17:06:49,449 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:06:50] "POST / HTTP/1.1" 200 -
+2017-03-23 17:06:54,746 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:06:55] "POST / HTTP/1.1" 200 -
+2017-03-23 17:06:57,048 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:06:57] "POST / HTTP/1.1" 200 -
+2017-03-23 17:06:58,011 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:06:58] "POST / HTTP/1.1" 200 -
+2017-03-23 17:07:21,146 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:07:21] "POST / HTTP/1.1" 200 -
+2017-03-23 17:07:21,844 - worker - New translate task
+{'targetLang': 'en', 'text': u'\u4f60\u60f3 \u5e72\u4ec0 2 \n', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+你想 干什 2 
+
+[u'\u4f60\u60f3 \u5e72\u4ec0 2']
+{'targetLang': 'en', 'text': u'\u4f60\u60f3 \u5e72\u4ec0 \n', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+你想 干什 
+
+[u'\u4f60\u60f3 \u5e72\u4ec0']
+{'targetLang': 'en', 'text': '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>\n', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+
+[u'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"> <title>404 Not Found</title> <h1>Not Found</h1> <p>The requested URL was not found on the server.', u'If you entered the URL manually please check your spelling and try again.</p>']
+{'targetLang': 'en', 'text': '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>\n', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+
+[u'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"> <title>404 Not Found</title> <h1>Not Found</h1> <p>The requested URL was not found on the server.', u'If you entered the URL manually please check your spelling and try again.</p>']
+{'targetLang': 'en', 'text': '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>\n', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>
+
+[u'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"> <title>404 Not Found</title> <h1>Not Found</h1> <p>The requested URL was not found on the server.', u'If you entered the URL manually please check your spelling and try again.</p>']
+{'targetLang': 'en', 'text': u'"\u4f60 \u60f3 \u5e72 \u4ec0 3"', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"你 想 干 什 3"
+[u'"\u4f60 \u60f3 \u5e72 \u4ec0 3"']
+{'targetLang': 'en', 'text': u'"\u770b \u6211 \u628a \u4f60 "', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"看 我 把 你 "
+[u'"\u770b \u6211 \u628a \u4f60 "']
+{'targetLang': 'en', 'text': u'"\u770b \u6211 \u628a \u4f60 \u7ed9 \u641e \u4e2a \u534a\u6b7b \uff3f "', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"看 我 把 你 给 搞 个 半死 ＿ "
+[u'"\u770b \u6211 \u628a \u4f60 \u7ed9 \u641e \u4e2a \u534a\u6b7b \uff3f "']
+{'targetLang': 'en', 'text': u'"\u770b \u6211 \u628a \u4f60 \u7ed9 \u641e \u4e2a \u534a\u6b7b . "', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"看 我 把 你 给 搞 个 半死 . "
+[u'"\u770b \u6211 \u628a \u4f60 \u7ed9 \u641e \u4e2a \u534a\u6b7b . "']
+{'targetLang': 'en', 'text': u'"\u6211 \u8981 "', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"我 要 "
+[u'"\u6211 \u8981 "']
+{'targetLang': 'en', 'text': u'"\u62110.119.181.207 - - [23/Mar/2017 17:07:22] "POST / HTTP/1.1" 200 -
+2017-03-23 17:07:32,878 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:07:38] "POST / HTTP/1.1" 200 -
+2017-03-23 17:07:44,352 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:07:49] "POST / HTTP/1.1" 200 -
+2017-03-23 17:07:49,345 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:07:51] "POST / HTTP/1.1" 200 -
+2017-03-23 17:07:51,165 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:07:55] "POST / HTTP/1.1" 200 -
+2017-03-23 17:07:55,420 - worker - New translate task
+1 \u8981 \u7ed9 "', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"我 要 给 "
+[u'"\u6211 \u8981 \u7ed9 "']
+{'targetLang': 'en', 'text': u'"\u6fb3\u95e8 \u5927\u5b66 \u4eba \u6587\u5b66\u9662 \u526f\u9662\u957f \u5f90\u6770 \u53c2\u8bc4 \u56fd\u5bb6\u6559\u80b2\u90e8 \u5b9e\u65bd \u7684 \\" \u957f\u6c5f \u5b66\u8005 \u5956\u52b1 \u8ba1\u5212 \\" , \u6210\u529f \u83b7\u9009 \u4e3a 2016\u5e74 \u5ea6 \\" \u8bed\u8a00\u5b66 \u53ca \u5e94\u7528 \u8bed\u8a00\u5b66 \\" \u4e13\u4e1a \u8303\u7574 \u552f\u4e00 \u4e00\u4f4d \\" \u957f\u6c5f \u5b66\u8005 \u8bb2\u5ea7 \u6559\u6388 \uff02 , \u6210\u4e3a \u9996\u4f4d \\" \u957f\u6c5f \u5b66\u8005 \u8bb2\u5ea7 \u6559\u6388 \\" \u7684 \u6fb3\u95e8 \u5b66\u8005 ."', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"澳门 大学 人 文学院 副院长 徐杰 参评 国家教育部 实施 的 \" 长江 学者 奖励 计划 \" , 成功 获选 为 2016年 度 \" 语言学 及 应用 语言学 \" 专业 范畴 唯一 一位 \" 长江 学者 讲座 教授 ＂ , 成为 首位 \" 长江 学者 讲座 教授 \" 的 澳门 学者 ."
+[u'"\u6fb3\u95e8 \u5927\u5b66 \u4eba \u6587\u5b66\u9662 \u526f\u9662\u957f \u5f90\u6770 \u53c2\u8bc4 \u56fd\u5bb6\u6559\u80b2\u90e8 \u5b9e\u65bd \u7684 \\" \u957f\u6c5f \u5b66\u8005 \u5956\u52b1 \u8ba1\u5212 \\" , \u6210\u529f \u83b7\u9009 \u4e3a 2016\u5e74 \u5ea6 \\" \u8bed\u8a00\u5b66 \u53ca \u5e94\u7528 \u8bed\u8a00\u5b66 \\" \u4e13\u4e1a \u8303\u7574 \u552f\u4e00 \u4e00\u4f4d \\" \u957f\u6c5f \u5b66\u8005 \u8bb2\u5ea7 \u6559\u6388 \uff02 , \u6210\u4e3a \u9996\u4f4d \\" \u957f\u6c5f \u5b66\u8005 \u8bb2\u5ea7 \u6559\u6388 \\" \u7684 \u6fb3\u95e8 \u5b66\u8005 ."']
+{'targetLang': 'en', 'text': u'"\u6fb3\u95e8 \u5927\u5b66 \u4eba \u6587\u5b66\u9662 \u526f\u9662\u957f \u5f90\u6770 \u53c2\u8bc4 \u56fd\u5bb6\u6559\u80b2\u90e8 \u5b9e\u65bd \u7684 \\" \u957f\u6c5f \u5b66\u8005 \u5956\u52b1 \u8ba1\u5212 \\" , \u6210\u529f \u83b7\u9009 \u4e3a 2016\u5e74 \u5ea6 \\" \u8bed\u8a00\u5b66 \u53ca \u5e94\u7528 \u8bed\u8a00\u5b66 \\" \u4e13\u4e1a \u8303\u7574 \u552f\u4e00 \u4e00\u4f4d \\" \u957f\u6c5f \u5b66\u8005 \u8bb2\u5ea7 \u6559\u6388 \uff02 ,"', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"澳门 大学 人 文学院 副院长 徐杰 参评 国家教育部 实施 的 \" 长江 学者 奖励 计划 \" , 成功 获选 为 2016年 度 \" 语言学 及 应用 语言学 \" 专业 范畴 唯一 一位 \" 长江 学者 讲座 教授 ＂ ,"
+[u'"\u6fb3\u95e8 \u5927\u5b66 \u4eba \u6587\u5b66\u9662 \u526f\u9662\u957f \u5f90\u6770 \u53c2\u8bc4 \u56fd\u5bb6\u6559\u80b2\u90e8 \u5b9e\u65bd \u7684 \\" \u957f\u6c5f \u5b66\u8005 \u5956\u52b1 \u8ba1\u5212 \\" , \u6210\u529f \u83b7\u9009 \u4e3a 2016\u5e74 \u5ea6 \\" \u8bed\u8a00\u5b66 \u53ca \u5e94\u7528 \u8bed\u8a00\u5b66 \\" \u4e13\u4e1a \u8303\u7574 \u552f\u4e00 \u4e00\u4f4d \\" \u957f\u6c5f \u5b66\u8005 \u8bb2\u5ea7 \u6559\u6388 \uff02 ,"']
+{'targetLang': 'en', 'text': u'"\u6210\u4e3a \u9996\u4f4d \\" \u957f\u6c5f \u5b66\u8005 \u8bb2\u5ea7 \u6559\u6388 \\" \u7684 \u6fb3\u95e8 \u5b66\u8005 . "', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"成为 首位 \" 长江 学者 讲座 教授 \" 的 澳门 学者 . "
+[u'"\u6210\u4e3a \u9996\u4f4d \\" \u957f\u6c5f \u5b66\u8005 \u8bb2\u5ea7 \u6559\u6388 \\" \u7684 \u6fb3\u95e8 \u5b66\u8005 . "']
+{'targetLang': 'en', 'text': u'"\u6fb3\u95e8 \u5927\u5b66 \u4eba \u6587\u5b66\u9662 \u526f\u9662\u957f \u5f90\u6770 \u53c2\u8bc4 \u56fd\u5bb6\u6559\u80b2\u90e8 \u5b9e\u65bd \u7684 \\" \u957f\u6c5f \u5b66\u8005 \u5956\u52b1 \u8ba1\u5212 \\" , "', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"澳门 大学 人 文学院 副院长 徐杰 参评 国家教育部 实施 的 \" 长江 学者 奖励 计划 \" , "
+[u'"\u6fb3\u95e8 \u5927\u5b66 \u4eba \u6587\u5b66\u9662 \u526f\u9662\u957f \u5f90\u6770 \u53c2\u8bc4 \u56fd\u5bb6\u6559\u80b2\u90e8 \u5b9e\u65bd \u7684 \\" \u957f\u6c5f \u5b66\u8005 \u5956\u52b1 \u8ba1\u5212 \\" , "']
+{'tar10.119.181.207 - - [23/Mar/2017 17:07:58] "POST / HTTP/1.1" 200 -
+2017-03-23 17:07:58,973 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:08:00] "POST / HTTP/1.1" 200 -
+2017-03-23 17:08:54,359 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:09:01] "POST / HTTP/1.1" 200 -
+2017-03-23 17:09:48,280 - worker - New translate task
+getLang': 'en', 'text': u'"\u6210\u529f \u83b7\u9009 \u4e3a 2016\u5e74 \u5ea6 \\" \u8bed\u8a00\u5b66 \u53ca \u5e94\u7528 \u8bed\u8a00\u5b66 \\" \u4e13\u4e1a \u8303\u7574 \u552f\u4e00 \u4e00\u4f4d \\" \u957f\u6c5f \u5b66\u8005 \u8bb2\u5ea7 \u6559\u6388 \uff02 ,"', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"成功 获选 为 2016年 度 \" 语言学 及 应用 语言学 \" 专业 范畴 唯一 一位 \" 长江 学者 讲座 教授 ＂ ,"
+[u'"\u6210\u529f \u83b7\u9009 \u4e3a 2016\u5e74 \u5ea6 \\" \u8bed\u8a00\u5b66 \u53ca \u5e94\u7528 \u8bed\u8a00\u5b66 \\" \u4e13\u4e1a \u8303\u7574 \u552f\u4e00 \u4e00\u4f4d \\" \u957f\u6c5f \u5b66\u8005 \u8bb2\u5ea7 \u6559\u6388 \uff02 ,"']
+{'targetLang': 'en', 'text': u'"\u6210\u4e3a \u9996\u4f4d \\" \u957f\u6c5f \u5b66\u8005 \u8bb2\u5ea7 \u6559\u6388 \\" \u7684 \u6fb3\u95e8 \u5b66\u8005 . "', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"成为 首位 \" 长江 学者 讲座 教授 \" 的 澳门 学者 . "
+[u'"\u6210\u4e3a \u9996\u4f4d \\" \u957f\u6c5f \u5b66\u8005 \u8bb2\u5ea7 \u6559\u6388 \\" \u7684 \u6fb3\u95e8 \u5b66\u8005 . "']
+{'targetLang': 'en', 'text': u'"\u6fb3\u95e8 \u4f4d\u4e8e \u73e0\u6c5f\u4e09\u89d2\u6d32 \u897f\u4fa7 , \u5317\u9762 \u548c \u897f\u9762 \u4e3a \u5e7f\u4e1c\u7701 \u73e0\u6d77\u5e02 , \u4e1c\u9762 \u548c \u5357\u9762 \u6fd2\u4e34 \u5357\u4e2d\u56fd\u6d77 , \u662f \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd \u4e24 \u4e2a \u7279\u522b\u884c\u653f\u533a \u4e4b\u4e00 ( \u53e6\u4e00\u4e2a \u662f \u9999\u6e2f ) . "', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"澳门 位于 珠江三角洲 西侧 , 北面 和 西面 为 广东省 珠海市 , 东面 和 南面 濒临 南中国海 , 是 中华人民共和国 两 个 特别行政区 之一 ( 另一个 是 香港 ) . "
+[u'"\u6fb3\u95e8 \u4f4d\u4e8e \u73e0\u6c5f\u4e09\u89d2\u6d32 \u897f\u4fa7 , \u5317\u9762 \u548c \u897f\u9762 \u4e3a \u5e7f\u4e1c\u7701 \u73e0\u6d77\u5e02 , \u4e1c\u9762 \u548c \u5357\u9762 \u6fd2\u4e34 \u5357\u4e2d\u56fd\u6d77 , \u662f \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd \u4e24 \u4e2a \u7279\u522b\u884c\u653f\u533a \u4e4b\u4e00 ( \u53e6\u4e00\u4e2a \u662f \u9999\u6e2f ) . "']
+{'targetLang': 'en', 'text': u'"16\u4e16\u7eaa \u8461\u8404\u7259 \u5546\u4eba \u5b9a\u5c45 \u6fb3\u95e8 , \u5176\u540e \u8461 \u653f\u5e9c \u5bf9 \u5f53\u5730 \u5b9e\u884c \u7ba1 \u6cbb . \u6fb3\u95e8 \u81ea\u6b64 \u5373 \u6210\u4e3a \u4e2d\u56fd \u7b2c \u4e00\u4e2a \u6b27\u6d32 \u6b96\u6c11\u5730 , \u76f4\u81f3 1999\u5e7412\u670820\u65e5 \u7ed3\u675f \u6b96\u6c11 \u7edf\u6cbb , \u4e2d\u56fd \u6062\u590d \u5bf9 \u6fb3\u95e8 \u884c\u4f7f \u4e3b\u6743 \u6b62 . ( \u56e0\u6b64 \u6fb3\u95e8 \u4e5f\u662f \u6b27\u6d32 \u5728 \u4e2d\u56fd \u6700\u540e \u4e00\u4e2a \u6b96\u6c11\u5730 . ) \\" \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd \u653f\u5e9c \u548c \u8461\u8404\u7259\u5171\u548c\u56fd \u653f\u5e9c \u5173\u4e8e \u6fb3\u95e8 \u95ee\u9898 \u7684 \u8054\u5408\u58f0\u660e \\" \u4ee5\u53ca \\" \u4e2d\u56fd\u4eba\u6c11 \u5171\u548c\u56fd \u6fb3\u95e8 \u7279\u522b\u884c\u653f\u533a \u57fa\u672c\u6cd5 \\" \u8ba2 \u660e \u6fb3\u95e8 \u81ea \u56de\u5f52 \u540e , \u5b9e\u884c \u9ad8\u5ea6 \u81ea\u6cbb , \u4e94\u5341 \u5e74 \u4e0d\u53d8 ."', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"16世纪 葡萄牙 商人 定居 澳门 , 其后 葡 政府 对 当地 实行 管 治 . 澳门 自此 即 成为 中国 第 一个 欧洲 殖民地 , 直至 1999年12月20日 结束 殖民 统治 , 中国 恢复 对 澳门 行使 主权 止 . ( 因此 澳门 也是 欧洲 在 中国 最后 一个 殖民地 . ) \" 中华人民共和国 政府 和 葡萄牙共和国 政府 关于 澳门 问题 的 联合声明 \" 以及 \" 中国人民 共和国 澳门 特别行政区 基本法 \" 订 明 澳门 自 回归 后 , 实行 高度 自治 , 五十 年 不变 ."
+[u'"16\u4e16\u7eaa \u8461\u8404\u7259 \u5546\u4eba \u5b9a\u5c45 \u6fb3\u95e8 , \u5176\u540e \u8461 \u653f\u5e9c \u5bf9 \u5f53\u5730 \u5b9e\u884c \u7ba110.119.181.207 - - [23/Mar/2017 17:09:55] "POST / HTTP/1.1" 200 -
+2017-03-23 17:09:55,063 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:09:59] "POST / HTTP/1.1" 200 -
+2017-03-23 17:09:59,819 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:10:08] "POST / HTTP/1.1" 200 -
+2017-03-23 17:10:08,554 - worker - New translate task
+ \u6cbb . \u6fb3\u95e8 \u81ea\u6b64 \u5373 \u6210\u4e3a \u4e2d\u56fd \u7b2c \u4e00\u4e2a \u6b27\u6d32 \u6b96\u6c11\u5730 , \u76f4\u81f3 1999\u5e7412\u670820\u65e5 \u7ed3\u675f \u6b96\u6c11 \u7edf\u6cbb , \u4e2d\u56fd \u6062\u590d \u5bf9 \u6fb3\u95e8 \u884c\u4f7f \u4e3b\u6743 \u6b62 . ( \u56e0\u6b64 \u6fb3\u95e8 \u4e5f\u662f \u6b27\u6d32 \u5728 \u4e2d\u56fd \u6700\u540e \u4e00\u4e2a \u6b96\u6c11\u5730 . ) \\" \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd \u653f\u5e9c \u548c \u8461\u8404\u7259\u5171\u548c\u56fd \u653f\u5e9c \u5173\u4e8e \u6fb3\u95e8 \u95ee\u9898 \u7684 \u8054\u5408\u58f0\u660e \\" \u4ee5\u53ca \\" \u4e2d\u56fd\u4eba\u6c11 \u5171\u548c\u56fd \u6fb3\u95e8 \u7279\u522b\u884c\u653f\u533a \u57fa\u672c\u6cd5 \\" \u8ba2 \u660e \u6fb3\u95e8 \u81ea \u56de\u5f52 \u540e , \u5b9e\u884c \u9ad8\u5ea6 \u81ea\u6cbb , \u4e94\u5341 \u5e74 \u4e0d\u53d8 ."']
+{'targetLang': 'en', 'text': u'"16\u4e16\u7eaa \u8461\u8404\u7259 \u5546\u4eba \u5b9a\u5c45 \u6fb3\u95e8 , \u5176\u540e \u8461 \u653f\u5e9c \u5bf9 \u5f53\u5730 \u5b9e\u884c \u7ba1 \u6cbb . \u6fb3\u95e8 \u81ea\u6b64 \u5373 \u6210\u4e3a \u4e2d\u56fd \u7b2c \u4e00\u4e2a \u6b27\u6d32 \u6b96\u6c11\u5730 , \u76f4\u81f3 1999\u5e7412\u670820\u65e5 \u7ed3\u675f \u6b96\u6c11 \u7edf\u6cbb , \u4e2d\u56fd \u6062\u590d \u5bf9 \u6fb3\u95e8 \u884c\u4f7f \u4e3b\u6743 \u6b62 ."', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"16世纪 葡萄牙 商人 定居 澳门 , 其后 葡 政府 对 当地 实行 管 治 . 澳门 自此 即 成为 中国 第 一个 欧洲 殖民地 , 直至 1999年12月20日 结束 殖民 统治 , 中国 恢复 对 澳门 行使 主权 止 ."
+[u'"16\u4e16\u7eaa \u8461\u8404\u7259 \u5546\u4eba \u5b9a\u5c45 \u6fb3\u95e8 , \u5176\u540e \u8461 \u653f\u5e9c \u5bf9 \u5f53\u5730 \u5b9e\u884c \u7ba1 \u6cbb . \u6fb3\u95e8 \u81ea\u6b64 \u5373 \u6210\u4e3a \u4e2d\u56fd \u7b2c \u4e00\u4e2a \u6b27\u6d32 \u6b96\u6c11\u5730 , \u76f4\u81f3 1999\u5e7412\u670820\u65e5 \u7ed3\u675f \u6b96\u6c11 \u7edf\u6cbb , \u4e2d\u56fd \u6062\u590d \u5bf9 \u6fb3\u95e8 \u884c\u4f7f \u4e3b\u6743 \u6b62 ."']
+{'targetLang': 'en', 'text': u'"( \u56e0\u6b64 \u6fb3\u95e8 \u4e5f\u662f \u6b27\u6d32 \u5728 \u4e2d\u56fd \u6700\u540e \u4e00\u4e2a \u6b96\u6c11\u5730 . ) \\" \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd \u653f\u5e9c \u548c \u8461\u8404\u7259\u5171\u548c\u56fd \u653f\u5e9c \u5173\u4e8e \u6fb3\u95e8 \u95ee\u9898 \u7684 \u8054\u5408\u58f0\u660e \\" \u4ee5\u53ca \\" \u4e2d\u56fd\u4eba\u6c11 \u5171\u548c\u56fd \u6fb3\u95e8 \u7279\u522b\u884c\u653f\u533a \u57fa\u672c\u6cd5 \\" \u8ba2 \u660e \u6fb3\u95e8 \u81ea \u56de\u5f52 \u540e , \u5b9e\u884c \u9ad8\u5ea6 \u81ea\u6cbb , \u4e94\u5341 \u5e74 \u4e0d\u53d8 ."', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"( 因此 澳门 也是 欧洲 在 中国 最后 一个 殖民地 . ) \" 中华人民共和国 政府 和 葡萄牙共和国 政府 关于 澳门 问题 的 联合声明 \" 以及 \" 中国人民 共和国 澳门 特别行政区 基本法 \" 订 明 澳门 自 回归 后 , 实行 高度 自治 , 五十 年 不变 ."
+[u'"( \u56e0\u6b64 \u6fb3\u95e8 \u4e5f\u662f \u6b27\u6d32 \u5728 \u4e2d\u56fd \u6700\u540e \u4e00\u4e2a \u6b96\u6c11\u5730 . ) \\" \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd \u653f\u5e9c \u548c \u8461\u8404\u7259\u5171\u548c\u56fd \u653f\u5e9c \u5173\u4e8e \u6fb3\u95e8 \u95ee\u9898 \u7684 \u8054\u5408\u58f0\u660e \\" \u4ee5\u53ca \\" \u4e2d\u56fd\u4eba\u6c11 \u5171\u548c\u56fd \u6fb3\u95e8 \u7279\u522b\u884c\u653f\u533a \u57fa\u672c\u6cd5 \\" \u8ba2 \u660e \u6fb3\u95e8 \u81ea \u56de\u5f52 \u540e , \u5b9e\u884c \u9ad8\u5ea6 \u81ea\u6cbb , \u4e94\u5341 \u5e74 \u4e0d\u53d8 ."']
+{'targetLang': 'en', 'text': u'"16\u4e16\u7eaa \u8461\u8404\u7259 \u5546\u4eba \u5b9a\u5c45 \u6fb3\u95e8 , \u5176\u540e \u8461 \u653f\u5e9c \u5bf9 \u5f53\u5730 \u5b9e\u884c \u7ba1 \u6cbb . \u6fb3\u95e8 \u81ea\u6b64 \u5373 \u6210\u4e3a \u4e2d\u56fd \u7b2c \u4e00\u4e2a \u6b27\u6d32 \u6b96\u6c11\u5730 , \u76f4\u81f3 1999\u5e7412\u670820\u65e5 \u7ed3\u675f \u6b96\u6c11 \u7edf\u6cbb , \u4e2d\u56fd \u6062\u10.119.181.207 - - [23/Mar/2017 17:10:13] "POST / HTTP/1.1" 200 -
+2017-03-23 17:10:13,299 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:10:14] "POST / HTTP/1.1" 200 -
+2017-03-23 17:10:14,356 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:10:20] "POST / HTTP/1.1" 200 -
+2017-03-23 17:10:20,585 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:10:22] "POST / HTTP/1.1" 200 -
+2017-03-23 17:10:22,509 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:10:25] "POST / HTTP/1.1" 200 -
+2017-03-23 17:10:25,984 - worker - New translate task
+590d \u5bf9 \u6fb3\u95e8 \u884c\u4f7f \u4e3b\u6743 \u6b62 ."', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"16世纪 葡萄牙 商人 定居 澳门 , 其后 葡 政府 对 当地 实行 管 治 . 澳门 自此 即 成为 中国 第 一个 欧洲 殖民地 , 直至 1999年12月20日 结束 殖民 统治 , 中国 恢复 对 澳门 行使 主权 止 ."
+[u'"16\u4e16\u7eaa \u8461\u8404\u7259 \u5546\u4eba \u5b9a\u5c45 \u6fb3\u95e8 , \u5176\u540e \u8461 \u653f\u5e9c \u5bf9 \u5f53\u5730 \u5b9e\u884c \u7ba1 \u6cbb . \u6fb3\u95e8 \u81ea\u6b64 \u5373 \u6210\u4e3a \u4e2d\u56fd \u7b2c \u4e00\u4e2a \u6b27\u6d32 \u6b96\u6c11\u5730 , \u76f4\u81f3 1999\u5e7412\u670820\u65e5 \u7ed3\u675f \u6b96\u6c11 \u7edf\u6cbb , \u4e2d\u56fd \u6062\u590d \u5bf9 \u6fb3\u95e8 \u884c\u4f7f \u4e3b\u6743 \u6b62 ."']
+{'targetLang': 'en', 'text': u'"( \u56e0\u6b64 \u6fb3\u95e8 \u4e5f\u662f \u6b27\u6d32 \u5728 \u4e2d\u56fd \u6700\u540e \u4e00\u4e2a \u6b96\u6c11\u5730 . ) "', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"( 因此 澳门 也是 欧洲 在 中国 最后 一个 殖民地 . ) "
+[u'"( \u56e0\u6b64 \u6fb3\u95e8 \u4e5f\u662f \u6b27\u6d32 \u5728 \u4e2d\u56fd \u6700\u540e \u4e00\u4e2a \u6b96\u6c11\u5730 . ) "']
+{'targetLang': 'en', 'text': u'"\\" \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd \u653f\u5e9c \u548c \u8461\u8404\u7259\u5171\u548c\u56fd \u653f\u5e9c \u5173\u4e8e \u6fb3\u95e8 \u95ee\u9898 \u7684 \u8054\u5408\u58f0\u660e \\" \u4ee5\u53ca \\" \u4e2d\u56fd\u4eba\u6c11 \u5171\u548c\u56fd \u6fb3\u95e8 \u7279\u522b\u884c\u653f\u533a \u57fa\u672c\u6cd5 \\" \u8ba2 \u660e \u6fb3\u95e8 \u81ea \u56de\u5f52 \u540e , \u5b9e\u884c \u9ad8\u5ea6 \u81ea\u6cbb , \u4e94\u5341 \u5e74 \u4e0d\u53d8 ."', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"\" 中华人民共和国 政府 和 葡萄牙共和国 政府 关于 澳门 问题 的 联合声明 \" 以及 \" 中国人民 共和国 澳门 特别行政区 基本法 \" 订 明 澳门 自 回归 后 , 实行 高度 自治 , 五十 年 不变 ."
+[u'"\\" \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd \u653f\u5e9c \u548c \u8461\u8404\u7259\u5171\u548c\u56fd \u653f\u5e9c \u5173\u4e8e \u6fb3\u95e8 \u95ee\u9898 \u7684 \u8054\u5408\u58f0\u660e \\" \u4ee5\u53ca \\" \u4e2d\u56fd\u4eba\u6c11 \u5171\u548c\u56fd \u6fb3\u95e8 \u7279\u522b\u884c\u653f\u533a \u57fa\u672c\u6cd5 \\" \u8ba2 \u660e \u6fb3\u95e8 \u81ea \u56de\u5f52 \u540e , \u5b9e\u884c \u9ad8\u5ea6 \u81ea\u6cbb , \u4e94\u5341 \u5e74 \u4e0d\u53d8 ."']
+{'targetLang': 'en', 'text': u'"16\u4e16\u7eaa \u8461\u8404\u7259 \u5546\u4eba \u5b9a\u5c45 \u6fb3\u95e8 , \u5176\u540e \u8461 \u653f\u5e9c \u5bf9 \u5f53\u5730 \u5b9e\u884c \u7ba1 \u6cbb ."', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"16世纪 葡萄牙 商人 定居 澳门 , 其后 葡 政府 对 当地 实行 管 治 ."
+[u'"16\u4e16\u7eaa \u8461\u8404\u7259 \u5546\u4eba \u5b9a\u5c45 \u6fb3\u95e8 , \u5176\u540e \u8461 \u653f\u5e9c \u5bf9 \u5f53\u5730 \u5b9e\u884c \u7ba1 \u6cbb ."']
+{'targetLang': 'en', 'text': u'"\u6fb3\u95e8 \u81ea\u6b64 \u5373 \u6210\u4e3a \u4e2d\u56fd \u7b2c \u4e00\u4e2a \u6b27\u6d32 \u6b96\u6c11\u5730 , \u76f4\u81f3 1999\u5e7412\u670820\u65e5 \u7ed3\u675f \u6b96\u6c11 \u7edf\u6cbb , \u4e2d\u56fd \u6062\u590d \u5bf9 \u6fb3\u95e8 \u884c\u4f7f \u4e3b\u6743 \u6b62 ."', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"澳门 自此 即 成为 中国 第 一个 欧洲 殖民地 , 直至 1999年12月20日 结束 殖民 统治 , 中国 恢复 对 澳门 行使 主权 止 ."
+[u'"\u6fb3\u95e8 \u81ea\u6b64 \u5373 \u6210\u4e3a \u4e2d\u56fd \u7b2c \u4e00\u4e2a \u6b27\u6d32 \u6b96\u6c11\u5730 , \u76f4\u81f3 1999\u5e7412\u670820\u65e5 \u7ed3\u675f \u6b96\u6c11 \u7edf\u6cbb , \u4e2d\u56fd \u6062\u590d \u5bf9 \u6fb3\u95e8 \u884c\u4f7f \u4e3b\u6743 \u6b62 ."']
+{'targetLang': 'en', 'text': u'"( \u56e0\u6b64 \u6fb3\u95e8 \u4e5f\u662f \u6b27\u6d32 \u5728 \u4e2d\u56fd \u6700\u540e \u4e00\u4e2a \u6b96\u6c11\u5730 . ) "', 'alignmentInfo': '10.119.181.207 - - [23/Mar/2017 17:10:27] "POST / HTTP/1.1" 200 -
+2017-03-23 17:10:27,043 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:10:33] "POST / HTTP/1.1" 200 -
+2017-03-23 17:19:48,442 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:19:50] "POST / HTTP/1.1" 200 -
+2017-03-23 17:19:50,643 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:19:54] "POST / HTTP/1.1" 200 -
+2017-03-23 17:19:54,145 - worker - New translate task
+10.119.181.207 - - [23/Mar/2017 17:19:55] "POST / HTTP/1.1" 200 -
+2017-03-23 17:19:55,219 - worker - New translate task
+true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"( 因此 澳门 也是 欧洲 在 中国 最后 一个 殖民地 . ) "
+[u'"( \u56e0\u6b64 \u6fb3\u95e8 \u4e5f\u662f \u6b27\u6d32 \u5728 \u4e2d\u56fd \u6700\u540e \u4e00\u4e2a \u6b96\u6c11\u5730 . ) "']
+{'targetLang': 'en', 'text': u'"\\" \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd \u653f\u5e9c \u548c \u8461\u8404\u7259\u5171\u548c\u56fd \u653f\u5e9c \u5173\u4e8e \u6fb3\u95e8 \u95ee\u9898 \u7684 \u8054\u5408\u58f0\u660e \\" \u4ee5\u53ca \\" \u4e2d\u56fd\u4eba\u6c11 \u5171\u548c\u56fd \u6fb3\u95e8 \u7279\u522b\u884c\u653f\u533a \u57fa\u672c\u6cd5 \\" \u8ba2 \u660e \u6fb3\u95e8 \u81ea \u56de\u5f52 \u540e , \u5b9e\u884c \u9ad8\u5ea6 \u81ea\u6cbb , \u4e94\u5341 \u5e74 \u4e0d\u53d8 ."', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"\" 中华人民共和国 政府 和 葡萄牙共和国 政府 关于 澳门 问题 的 联合声明 \" 以及 \" 中国人民 共和国 澳门 特别行政区 基本法 \" 订 明 澳门 自 回归 后 , 实行 高度 自治 , 五十 年 不变 ."
+[u'"\\" \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd \u653f\u5e9c \u548c \u8461\u8404\u7259\u5171\u548c\u56fd \u653f\u5e9c \u5173\u4e8e \u6fb3\u95e8 \u95ee\u9898 \u7684 \u8054\u5408\u58f0\u660e \\" \u4ee5\u53ca \\" \u4e2d\u56fd\u4eba\u6c11 \u5171\u548c\u56fd \u6fb3\u95e8 \u7279\u522b\u884c\u653f\u533a \u57fa\u672c\u6cd5 \\" \u8ba2 \u660e \u6fb3\u95e8 \u81ea \u56de\u5f52 \u540e , \u5b9e\u884c \u9ad8\u5ea6 \u81ea\u6cbb , \u4e94\u5341 \u5e74 \u4e0d\u53d8 ."']
+{'targetLang': 'en', 'text': u'"16\u4e16\u7eaa \u8461\u8404\u7259 \u5546\u4eba \u5b9a\u5c45 \u6fb3\u95e8 , \u5176\u540e \u8461 \u653f\u5e9c \u5bf9 \u5f53\u5730 \u5b9e\u884c \u7ba1 \u6cbb ."', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"16世纪 葡萄牙 商人 定居 澳门 , 其后 葡 政府 对 当地 实行 管 治 ."
+[u'"16\u4e16\u7eaa \u8461\u8404\u7259 \u5546\u4eba \u5b9a\u5c45 \u6fb3\u95e8 , \u5176\u540e \u8461 \u653f\u5e9c \u5bf9 \u5f53\u5730 \u5b9e\u884c \u7ba1 \u6cbb ."']
+{'targetLang': 'en', 'text': u'"\u6fb3\u95e8 \u81ea\u6b64 \u5373 \u6210\u4e3a \u4e2d\u56fd \u7b2c \u4e00\u4e2a \u6b27\u6d32 \u6b96\u6c11\u5730 , \u76f4\u81f3 1999\u5e7412\u670820\u65e5 \u7ed3\u675f \u6b96\u6c11 \u7edf\u6cbb , \u4e2d\u56fd \u6062\u590d \u5bf9 \u6fb3\u95e8 \u884c\u4f7f \u4e3b\u6743 \u6b62 ."', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"澳门 自此 即 成为 中国 第 一个 欧洲 殖民地 , 直至 1999年12月20日 结束 殖民 统治 , 中国 恢复 对 澳门 行使 主权 止 ."
+[u'"\u6fb3\u95e8 \u81ea\u6b64 \u5373 \u6210\u4e3a \u4e2d\u56fd \u7b2c \u4e00\u4e2a \u6b27\u6d32 \u6b96\u6c11\u5730 , \u76f4\u81f3 1999\u5e7412\u670820\u65e5 \u7ed3\u675f \u6b96\u6c11 \u7edf\u6cbb , \u4e2d\u56fd \u6062\u590d \u5bf9 \u6fb3\u95e8 \u884c\u4f7f \u4e3b\u6743 \u6b62 ."']
+{'targetLang': 'en', 'text': u'"( \u56e0\u6b64 \u6fb3\u95e8 \u4e5f\u662f \u6b27\u6d32 \u5728 \u4e2d\u56fd \u6700\u540e \u4e00\u4e2a \u6b96\u6c11\u5730 . ) "', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"( 因此 澳门 也是 欧洲 在 中国 最后 一个 殖民地 . ) "
+[u'"( \u56e0\u6b64 \u6fb3\u95e8 \u4e5f\u662f \u6b27\u6d32 \u5728 \u4e2d\u56fd \u6700\u540e \u4e00\u4e2a \u6b96\u6c11\u5730 . ) "']
+{'targetLang': 'en', 'text': u'"\\" \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd \u653f\u5e9c \u548c \u8461\u8404\u7259\u5171\u548c\u56fd \u653f\u5e9c \u5173\u4e8e \u6fb3\u95e8 \u95ee\u9898 \u7684 \u8054\u5408\u58f0\u660e \\" \u4ee5\u53ca \\" \u4e2d\u56fd\u4eba\u6c11 \u5171\u548c\u56fd \u6fb3\u95e8 \u7279\u522b\u884c\u653f\u533a \u57fa\u672c\u6cd5 \\" \u8ba2 \u660e \u6fb3\u95e8 \u81ea \u56de\u5f52 \u540e , \u5b9e\u884c \u9ad8\u5ea6 \u81ea\u6cbb , \u4e94\u5341 \u5e74 \u4e0d\u53d8 ."', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"\" 中华人民共和国 政府 和 葡萄牙共和国 政府 关于 澳门 问题 的 联合声明 \" 以及 \" 中国人民 共和国 澳门 特别行政区 基本�10.119.181.207 - - [23/Mar/2017 17:20:01] "POST / HTTP/1.1" 200 -
+2017-03-24 22:43:46,746 - worker - New translate task
+10.119.181.207 - - [24/Mar/2017 22:43:47] "POST / HTTP/1.1" 200 -
+2017-03-27 13:31:33,671 - worker - New translate task
+10.119.181.207 - - [27/Mar/2017 13:31:38] "POST / HTTP/1.1" 200 -
+2017-03-27 13:31:39,004 - worker - New translate task
+� \" 订 明 澳门 自 回归 后 , 实行 高度 自治 , 五十 年 不变 ."
+[u'"\\" \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd \u653f\u5e9c \u548c \u8461\u8404\u7259\u5171\u548c\u56fd \u653f\u5e9c \u5173\u4e8e \u6fb3\u95e8 \u95ee\u9898 \u7684 \u8054\u5408\u58f0\u660e \\" \u4ee5\u53ca \\" \u4e2d\u56fd\u4eba\u6c11 \u5171\u548c\u56fd \u6fb3\u95e8 \u7279\u522b\u884c\u653f\u533a \u57fa\u672c\u6cd5 \\" \u8ba2 \u660e \u6fb3\u95e8 \u81ea \u56de\u5f52 \u540e , \u5b9e\u884c \u9ad8\u5ea6 \u81ea\u6cbb , \u4e94\u5341 \u5e74 \u4e0d\u53d8 ."']
+{'targetLang': 'en', 'text': u'"\u81ea\u7136 \u8bed\u8a00 \u5904\u7406 \u4e0e \u4e2d \u8461 \u673a\u5668\u7ffb\u8bd1 \u5b9e\u9a8c\u5ba4 "', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"自然 语言 处理 与 中 葡 机器翻译 实验室 "
+[u'"\u81ea\u7136 \u8bed\u8a00 \u5904\u7406 \u4e0e \u4e2d \u8461 \u673a\u5668\u7ffb\u8bd1 \u5b9e\u9a8c\u5ba4 "']
+{'targetLang': 'en', 'text': u'"\u8fbe\u62c9\u65af \u5c0f\u725b , \u662f \u4e00\u652f \u4f4d\u4e8e \u7f8e\u56fd \u5f97\u514b\u8428\u65af\u5dde \u8fbe\u62c9\u65af \u7684 NBA \u7bee\u7403\u961f , \u5206 \u5c5e\u4e8e \u897f\u533a \u7684 \u897f\u5357 \u7ec4 , \u4e3b\u573a \u4e3a \u7f8e \u822a \u4e2d\u5fc3 . \u7403\u961f \u8001\u677f \u662f \u4ee5 \u7f51\u9645\u7f51 \u8def \u751f\u610f \u5174 \u5bb6 , \u6562 \u6012 \u6562 \u8a00 \u7684 \u9a6c\u514b \xb7 \u5e93 \u73ed . \u7403\u961f \u65bc 1980\u5e74 \u6210\u7acb , \u65bc 2006\u5e74 \u7403 \u5b63 \u9996\u5ea6 \u8fdb\u5165 NBA \u603b\u51b3\u8d5b , \u4f46 2 \u8fde\u80dc \u540e 4 \u8fde \u8d25 ,"', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"达拉斯 小牛 , 是 一支 位于 美国 得克萨斯州 达拉斯 的 NBA 篮球队 , 分 属于 西区 的 西南 组 , 主场 为 美 航 中心 . 球队 老板 是 以 网际网 路 生意 兴 家 , 敢 怒 敢 言 的 马克 · 库 班 . 球队 於 1980年 成立 , 於 2006年 球 季 首度 进入 NBA 总决赛 , 但 2 连胜 后 4 连 败 ,"
+[u'"\u8fbe\u62c9\u65af \u5c0f\u725b , \u662f \u4e00\u652f \u4f4d\u4e8e \u7f8e\u56fd \u5f97\u514b\u8428\u65af\u5dde \u8fbe\u62c9\u65af \u7684 NBA \u7bee\u7403\u961f , \u5206 \u5c5e\u4e8e \u897f\u533a \u7684 \u897f\u5357 \u7ec4 , \u4e3b\u573a \u4e3a \u7f8e \u822a \u4e2d\u5fc3 . \u7403\u961f \u8001\u677f \u662f \u4ee5 \u7f51\u9645\u7f51 \u8def \u751f\u610f \u5174 \u5bb6 , \u6562 \u6012 \u6562 \u8a00 \u7684 \u9a6c\u514b \xb7 \u5e93 \u73ed . \u7403\u961f \u65bc 1980\u5e74 \u6210\u7acb , \u65bc 2006\u5e74 \u7403 \u5b63 \u9996\u5ea6 \u8fdb\u5165 NBA \u603b\u51b3\u8d5b , \u4f46 2 \u8fde\u80dc \u540e 4 \u8fde \u8d25 ,"']
+{'targetLang': 'en', 'text': u'"\u8fbe\u62c9\u65af \u5c0f\u725b , \u662f \u4e00\u652f \u4f4d\u4e8e \u7f8e\u56fd \u5f97\u514b\u8428\u65af\u5dde \u8fbe\u62c9\u65af \u7684 NBA \u7bee\u7403\u961f , \u5206 \u5c5e\u4e8e \u897f\u533a \u7684 \u897f\u5357 \u7ec4 , \u4e3b\u573a \u4e3a \u7f8e \u822a \u4e2d\u5fc3 . \u7403\u961f \u8001\u677f \u662f \u4ee5 \u7f51\u9645\u7f51 \u8def \u751f\u610f \u5174 \u5bb6 , \u6562 \u6012 \u6562 \u8a00 \u7684 \u9a6c\u514b \xb7 \u5e93 \u73ed . \u7403\u961f \u65bc 1980\u5e74 \u6210\u7acb , \u65bc 2006\u5e74 \u7403 \u5b63 \u9996\u5ea6 \u8fdb\u5165 NBA \u603b\u51b3\u8d5b , \u4f46 2 \u8fde\u80dc \u540e 4 \u8fde \u8d25 ,"', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"达拉斯 小牛 , 是 一支 位于 美国 得克萨斯州 达拉斯 的 NBA 篮球队 , 分 属于 西区 的 西南 组 , 主场 为 美 航 中心 . 球队 老板 是 以 网际网 路 生意 兴 家 , 敢 怒 敢 言 的 马克 · 库 班 . 球队 於 1980年 成立 , 於 2006年 球 季 首度 进入 NBA 总决赛 , 但 2 连胜 后 4 连 败 ,"
+[u'"\u8fbe\u62c9\u65af \u5c0f\u725b , \u662f \u4e00\u652f \u4f4d\u4e8e \u7f8e\u56fd \u5f97\u514b\u8428\u65af\u5dde \u8fbe\u62c9\u65af \u7684 NBA \u7bee\u7403\u961f , \u5206 \u5c5e\u4e8e \u897f\u533a \u7684 \u897f\u5357 \u7ec4 , \u4e3b\u573a \u4e3a \u7f8e \u822a \u4e2d\u5fc3 . \u7403\u961f \u8001\u677f \u662f \u4ee5 \u7f51\u9645\u7f51 \u8def \u751f\u610f \u5174 \u5b10.119.181.207 - - [27/Mar/2017 13:31:43] "POST / HTTP/1.1" 200 -
+2017-03-27 13:31:43,961 - worker - New translate task
+10.119.181.207 - - [27/Mar/2017 13:31:48] "POST / HTTP/1.1" 200 -
+2017-03-27 13:31:48,915 - worker - New translate task
+10.119.181.207 - - [27/Mar/2017 13:31:50] "POST / HTTP/1.1" 200 -
+2017-03-27 13:31:51,014 - worker - New translate task
+10.119.181.207 - - [27/Mar/2017 13:31:55] "POST / HTTP/1.1" 200 -
+2017-03-27 13:31:55,855 - worker - New translate task
+b6 , \u6562 \u6012 \u6562 \u8a00 \u7684 \u9a6c\u514b \xb7 \u5e93 \u73ed . \u7403\u961f \u65bc 1980\u5e74 \u6210\u7acb , \u65bc 2006\u5e74 \u7403 \u5b63 \u9996\u5ea6 \u8fdb\u5165 NBA \u603b\u51b3\u8d5b , \u4f46 2 \u8fde\u80dc \u540e 4 \u8fde \u8d25 ,"']
+{'targetLang': 'en', 'text': u'"\u8fbe\u62c9\u65af \u5c0f\u725b , \u662f \u4e00\u652f \u4f4d\u4e8e \u7f8e\u56fd \u5f97\u514b\u8428\u65af\u5dde \u8fbe\u62c9\u65af \u7684 NBA \u7bee\u7403\u961f , \u5206 \u5c5e\u4e8e \u897f\u533a \u7684 \u897f\u5357 \u7ec4 , \u4e3b\u573a \u4e3a \u7f8e \u822a \u4e2d\u5fc3 . \u7403\u961f \u8001\u677f \u662f \u4ee5 \u7f51\u9645\u7f51 \u8def \u751f\u610f \u5174 \u5bb6 , \u6562 \u6012 \u6562 \u8a00 \u7684 \u9a6c\u514b \xb7 \u5e93 \u73ed . \u7403\u961f \u65bc 1980\u5e74 \u6210\u7acb , \u65bc 2006\u5e74 \u7403 \u5b63 \u9996\u5ea6 \u8fdb\u5165 NBA \u603b\u51b3\u8d5b , \u4f46 2 \u8fde\u80dc \u540e 4 \u8fde \u8d25 ,"', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"达拉斯 小牛 , 是 一支 位于 美国 得克萨斯州 达拉斯 的 NBA 篮球队 , 分 属于 西区 的 西南 组 , 主场 为 美 航 中心 . 球队 老板 是 以 网际网 路 生意 兴 家 , 敢 怒 敢 言 的 马克 · 库 班 . 球队 於 1980年 成立 , 於 2006年 球 季 首度 进入 NBA 总决赛 , 但 2 连胜 后 4 连 败 ,"
+[u'"\u8fbe\u62c9\u65af \u5c0f\u725b , \u662f \u4e00\u652f \u4f4d\u4e8e \u7f8e\u56fd \u5f97\u514b\u8428\u65af\u5dde \u8fbe\u62c9\u65af \u7684 NBA \u7bee\u7403\u961f , \u5206 \u5c5e\u4e8e \u897f\u533a \u7684 \u897f\u5357 \u7ec4 , \u4e3b\u573a \u4e3a \u7f8e \u822a \u4e2d\u5fc3 . \u7403\u961f \u8001\u677f \u662f \u4ee5 \u7f51\u9645\u7f51 \u8def \u751f\u610f \u5174 \u5bb6 , \u6562 \u6012 \u6562 \u8a00 \u7684 \u9a6c\u514b \xb7 \u5e93 \u73ed . \u7403\u961f \u65bc 1980\u5e74 \u6210\u7acb , \u65bc 2006\u5e74 \u7403 \u5b63 \u9996\u5ea6 \u8fdb\u5165 NBA \u603b\u51b3\u8d5b , \u4f46 2 \u8fde\u80dc \u540e 4 \u8fde \u8d25 ,"']
+{'targetLang': 'en', 'text': u'"\u8fbe\u62c9\u65af \u5c0f\u725b , \u662f \u4e00\u652f \u4f4d\u4e8e \u7f8e\u56fd \u5f97\u514b\u8428\u65af\u5dde \u8fbe\u62c9\u65af \u7684 NBA \u7bee\u7403\u961f ,"', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"达拉斯 小牛 , 是 一支 位于 美国 得克萨斯州 达拉斯 的 NBA 篮球队 ,"
+[u'"\u8fbe\u62c9\u65af \u5c0f\u725b , \u662f \u4e00\u652f \u4f4d\u4e8e \u7f8e\u56fd \u5f97\u514b\u8428\u65af\u5dde \u8fbe\u62c9\u65af \u7684 NBA \u7bee\u7403\u961f ,"']
+{'targetLang': 'en', 'text': u'"\u5206 \u5c5e\u4e8e \u897f\u533a \u7684 \u897f\u5357 \u7ec4 , \u4e3b\u573a \u4e3a \u7f8e \u822a \u4e2d\u5fc3 . \u7403\u961f \u8001\u677f \u662f \u4ee5 \u7f51\u9645\u7f51 \u8def \u751f\u610f \u5174 \u5bb6 , \u6562 \u6012 \u6562 \u8a00 \u7684 \u9a6c\u514b \xb7 \u5e93 \u73ed . \u7403\u961f \u65bc 1980\u5e74 \u6210\u7acb , \u65bc 2006\u5e74 \u7403 \u5b63 \u9996\u5ea6 \u8fdb\u5165 NBA \u603b\u51b3\u8d5b , \u4f46 2 \u8fde\u80dc \u540e 4 \u8fde \u8d25 ,"', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"分 属于 西区 的 西南 组 , 主场 为 美 航 中心 . 球队 老板 是 以 网际网 路 生意 兴 家 , 敢 怒 敢 言 的 马克 · 库 班 . 球队 於 1980年 成立 , 於 2006年 球 季 首度 进入 NBA 总决赛 , 但 2 连胜 后 4 连 败 ,"
+[u'"\u5206 \u5c5e\u4e8e \u897f\u533a \u7684 \u897f\u5357 \u7ec4 , \u4e3b\u573a \u4e3a \u7f8e \u822a \u4e2d\u5fc3 . \u7403\u961f \u8001\u677f \u662f \u4ee5 \u7f51\u9645\u7f51 \u8def \u751f\u610f \u5174 \u5bb6 , \u6562 \u6012 \u6562 \u8a00 \u7684 \u9a6c\u514b \xb7 \u5e93 \u73ed . \u7403\u961f \u65bc 1980\u5e74 \u6210\u7acb , \u65bc 2006\u5e74 \u7403 \u5b63 \u9996\u5ea6 \u8fdb\u5165 NBA \u603b\u51b3\u8d5b , \u4f46 2 \u8fde\u80dc \u540e 4 \u8fde \u8d25 ,"']
+{'targetLang': 'en', 'text': u'"\u8fbe\u62c9\u65af \u5c0f\u725b , \u662f \u4e00\u652f \u4f4d\u4e8e \u7f8e\u56fd \u5f97\u514b\u8428\u65af\u5dde \u8fbe\u62c9\u65af \u7684 NBA \u7bee\u7403\u961f ,"', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"达拉斯 小牛 , 10.119.181.207 - - [27/Mar/2017 13:31:57] "POST / HTTP/1.1" 200 -
+2017-03-27 13:31:57,934 - worker - New translate task
+10.119.181.207 - - [27/Mar/2017 13:31:59] "POST / HTTP/1.1" 200 -
+2017-03-27 13:32:00,016 - worker - New translate task
+10.119.181.207 - - [27/Mar/2017 13:32:04] "POST / HTTP/1.1" 200 -
+2017-03-27 13:32:04,182 - worker - New translate task
+10.119.181.207 - - [27/Mar/2017 13:32:06] "POST / HTTP/1.1" 200 -
+2017-03-27 13:32:06,281 - worker - New translate task
+10.119.181.207 - - [27/Mar/2017 13:32:10] "POST / HTTP/1.1" 200 -
+2017-03-27 13:32:10,906 - worker - New translate task
+10.119.181.207 - - [27/Mar/2017 13:32:12] "POST / HTTP/1.1" 200 -
+2017-03-27 13:32:12,984 - worker - New translate task
+是 一支 位于 美国 得克萨斯州 达拉斯 的 NBA 篮球队 ,"
+[u'"\u8fbe\u62c9\u65af \u5c0f\u725b , \u662f \u4e00\u652f \u4f4d\u4e8e \u7f8e\u56fd \u5f97\u514b\u8428\u65af\u5dde \u8fbe\u62c9\u65af \u7684 NBA \u7bee\u7403\u961f ,"']
+{'targetLang': 'en', 'text': u'"\u5206 \u5c5e\u4e8e \u897f\u533a \u7684 \u897f\u5357 \u7ec4 , \u4e3b\u573a \u4e3a \u7f8e \u822a \u4e2d\u5fc3 . \u7403\u961f \u8001\u677f \u662f \u4ee5 \u7f51\u9645\u7f51 \u8def \u751f\u610f \u5174 \u5bb6 , "', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"分 属于 西区 的 西南 组 , 主场 为 美 航 中心 . 球队 老板 是 以 网际网 路 生意 兴 家 , "
+[u'"\u5206 \u5c5e\u4e8e \u897f\u533a \u7684 \u897f\u5357 \u7ec4 , \u4e3b\u573a \u4e3a \u7f8e \u822a \u4e2d\u5fc3 . \u7403\u961f \u8001\u677f \u662f \u4ee5 \u7f51\u9645\u7f51 \u8def \u751f\u610f \u5174 \u5bb6 , "']
+{'targetLang': 'en', 'text': u'"\u6562 \u6012 \u6562 \u8a00 \u7684 \u9a6c\u514b \xb7 \u5e93 \u73ed . \u7403\u961f \u65bc 1980\u5e74 \u6210\u7acb , \u65bc 2006\u5e74 \u7403 \u5b63 \u9996\u5ea6 \u8fdb\u5165 NBA \u603b\u51b3\u8d5b , \u4f46 2 \u8fde\u80dc \u540e 4 \u8fde \u8d25 ,"', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"敢 怒 敢 言 的 马克 · 库 班 . 球队 於 1980年 成立 , 於 2006年 球 季 首度 进入 NBA 总决赛 , 但 2 连胜 后 4 连 败 ,"
+[u'"\u6562 \u6012 \u6562 \u8a00 \u7684 \u9a6c\u514b \xb7 \u5e93 \u73ed . \u7403\u961f \u65bc 1980\u5e74 \u6210\u7acb , \u65bc 2006\u5e74 \u7403 \u5b63 \u9996\u5ea6 \u8fdb\u5165 NBA \u603b\u51b3\u8d5b , \u4f46 2 \u8fde\u80dc \u540e 4 \u8fde \u8d25 ,"']
+{'targetLang': 'en', 'text': u'"\u8fbe\u62c9\u65af \u5c0f\u725b , \u662f \u4e00\u652f \u4f4d\u4e8e \u7f8e\u56fd \u5f97\u514b\u8428\u65af\u5dde \u8fbe\u62c9\u65af \u7684 NBA \u7bee\u7403\u961f ,"', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"达拉斯 小牛 , 是 一支 位于 美国 得克萨斯州 达拉斯 的 NBA 篮球队 ,"
+[u'"\u8fbe\u62c9\u65af \u5c0f\u725b , \u662f \u4e00\u652f \u4f4d\u4e8e \u7f8e\u56fd \u5f97\u514b\u8428\u65af\u5dde \u8fbe\u62c9\u65af \u7684 NBA \u7bee\u7403\u961f ,"']
+{'targetLang': 'en', 'text': u'"\u5206 \u5c5e\u4e8e \u897f\u533a \u7684 \u897f\u5357 \u7ec4 , \u4e3b\u573a \u4e3a \u7f8e \u822a \u4e2d\u5fc3 . \u7403\u961f \u8001\u677f \u662f \u4ee5 \u7f51\u9645\u7f51 \u8def \u751f\u610f \u5174 \u5bb6 , \u6562 \u6012 \u6562 \u8a00 \u7684 \u9a6c\u514b \xb7 \u5e93 \u73ed . \u7403\u961f \u65bc 1980\u5e74 \u6210\u7acb , \u65bc 2006\u5e74 \u7403 \u5b63 \u9996\u5ea6 \u8fdb\u5165 NBA \u603b\u51b3\u8d5b , \u4f46 2 \u8fde\u80dc \u540e 4 \u8fde \u8d25 ,"', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"分 属于 西区 的 西南 组 , 主场 为 美 航 中心 . 球队 老板 是 以 网际网 路 生意 兴 家 , 敢 怒 敢 言 的 马克 · 库 班 . 球队 於 1980年 成立 , 於 2006年 球 季 首度 进入 NBA 总决赛 , 但 2 连胜 后 4 连 败 ,"
+[u'"\u5206 \u5c5e\u4e8e \u897f\u533a \u7684 \u897f\u5357 \u7ec4 , \u4e3b\u573a \u4e3a \u7f8e \u822a \u4e2d\u5fc3 . \u7403\u961f \u8001\u677f \u662f \u4ee5 \u7f51\u9645\u7f51 \u8def \u751f\u610f \u5174 \u5bb6 , \u6562 \u6012 \u6562 \u8a00 \u7684 \u9a6c\u514b \xb7 \u5e93 \u73ed . \u7403\u961f \u65bc 1980\u5e74 \u6210\u7acb , \u65bc 2006\u5e74 \u7403 \u5b63 \u9996\u5ea6 \u8fdb\u5165 NBA \u603b\u51b3\u8d5b , \u4f46 2 \u8fde\u80dc \u540e 4 \u8fde \u8d25 ,"']
+{'targetLang': 'en', 'text': u'"\u8fbe\u62c9\u65af \u5c0f\u725b , \u662f \u4e00\u652f \u4f4d\u4e8e \u7f8e\u56fd \u5f97\u514b\u8428\u65af\u5dde \u8fbe\u62c9\u65af \u7684 NBA \u7bee\u7403\u961f ,"', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"达拉斯 小牛 , 是 一支 位于 美国 得克萨斯州 达拉斯 的 NBA 篮球队 ,"
+[u'"\u8fbe\u62c9\u65af \u5c0f\u725b , \u662f \u4e00\u652f \u4f4d\u4e8e \u7f8e\u56fd \u5f97\u514b\u8428\u65af\u5dde \u8fbe\u62c9\u65af \u7684 NBA \u7bee\u7403\u961f ,"']
+{'targetLang': 'en', 'text': u'"\u5206 \u5c5e\u4e8e \u10.119.181.207 - - [27/Mar/2017 13:32:17] "POST / HTTP/1.1" 200 -
+2017-03-27 13:32:17,351 - worker - New translate task
+10.119.181.207 - - [27/Mar/2017 13:32:20] "POST / HTTP/1.1" 200 -
+2017-03-27 13:48:37,706 - worker - New translate task
+10.119.181.207 - - [27/Mar/2017 13:48:46] "POST / HTTP/1.1" 200 -
+2017-03-27 13:48:46,450 - worker - New translate task
+10.119.181.207 - - [27/Mar/2017 13:48:49] "POST / HTTP/1.1" 200 -
+2017-03-27 13:48:49,335 - worker - New translate task
+897f\u533a \u7684 \u897f\u5357 \u7ec4 , \u4e3b\u573a \u4e3a \u7f8e \u822a \u4e2d\u5fc3 . \u7403\u961f \u8001\u677f \u662f \u4ee5 \u7f51\u9645\u7f51 \u8def \u751f\u610f \u5174 \u5bb6 , \u6562 \u6012 \u6562 \u8a00 \u7684 \u9a6c\u514b \xb7 \u5e93 \u73ed . "', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"分 属于 西区 的 西南 组 , 主场 为 美 航 中心 . 球队 老板 是 以 网际网 路 生意 兴 家 , 敢 怒 敢 言 的 马克 · 库 班 . "
+[u'"\u5206 \u5c5e\u4e8e \u897f\u533a \u7684 \u897f\u5357 \u7ec4 , \u4e3b\u573a \u4e3a \u7f8e \u822a \u4e2d\u5fc3 . \u7403\u961f \u8001\u677f \u662f \u4ee5 \u7f51\u9645\u7f51 \u8def \u751f\u610f \u5174 \u5bb6 , \u6562 \u6012 \u6562 \u8a00 \u7684 \u9a6c\u514b \xb7 \u5e93 \u73ed . "']
+{'targetLang': 'en', 'text': u'"\u7403\u961f \u65bc 1980\u5e74 \u6210\u7acb , \u65bc 2006\u5e74 \u7403 \u5b63 \u9996\u5ea6 \u8fdb\u5165 NBA \u603b\u51b3\u8d5b , \u4f46 2 \u8fde\u80dc \u540e 4 \u8fde \u8d25 ,"', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"球队 於 1980年 成立 , 於 2006年 球 季 首度 进入 NBA 总决赛 , 但 2 连胜 后 4 连 败 ,"
+[u'"\u7403\u961f \u65bc 1980\u5e74 \u6210\u7acb , \u65bc 2006\u5e74 \u7403 \u5b63 \u9996\u5ea6 \u8fdb\u5165 NBA \u603b\u51b3\u8d5b , \u4f46 2 \u8fde\u80dc \u540e 4 \u8fde \u8d25 ,"']
+{'targetLang': 'en', 'text': u'"\u8fbe\u62c9\u65af \u5c0f\u725b , \u662f \u4e00\u652f \u4f4d\u4e8e \u7f8e\u56fd \u5f97\u514b\u8428\u65af\u5dde \u8fbe\u62c9\u65af \u7684 NBA \u7bee\u7403\u961f , \u5206 \u5c5e\u4e8e \u897f\u533a \u7684 \u897f\u5357 \u7ec4 , \u4e3b\u573a \u4e3a \u7f8e \u822a \u4e2d\u5fc3 . \u7403\u961f \u8001\u677f \u662f \u4ee5 \u7f51\u9645\u7f51 \u8def \u751f\u610f \u5174 \u5bb6 , \u6562 \u6012 \u6562 \u8a00 \u7684 \u9a6c\u514b \xb7 \u5e93 \u73ed ."', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"达拉斯 小牛 , 是 一支 位于 美国 得克萨斯州 达拉斯 的 NBA 篮球队 , 分 属于 西区 的 西南 组 , 主场 为 美 航 中心 . 球队 老板 是 以 网际网 路 生意 兴 家 , 敢 怒 敢 言 的 马克 · 库 班 ."
+[u'"\u8fbe\u62c9\u65af \u5c0f\u725b , \u662f \u4e00\u652f \u4f4d\u4e8e \u7f8e\u56fd \u5f97\u514b\u8428\u65af\u5dde \u8fbe\u62c9\u65af \u7684 NBA \u7bee\u7403\u961f , \u5206 \u5c5e\u4e8e \u897f\u533a \u7684 \u897f\u5357 \u7ec4 , \u4e3b\u573a \u4e3a \u7f8e \u822a \u4e2d\u5fc3 . \u7403\u961f \u8001\u677f \u662f \u4ee5 \u7f51\u9645\u7f51 \u8def \u751f\u610f \u5174 \u5bb6 , \u6562 \u6012 \u6562 \u8a00 \u7684 \u9a6c\u514b \xb7 \u5e93 \u73ed ."']
+{'targetLang': 'en', 'text': u'"\u7403\u961f \u65bc 1980\u5e74 \u6210\u7acb , \u65bc 2006\u5e74 \u7403 \u5b63 \u9996\u5ea6 \u8fdb\u5165 NBA \u603b\u51b3\u8d5b , \u4f46 2 \u8fde\u80dc \u540e 4 \u8fde \u8d25 ,"', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"球队 於 1980年 成立 , 於 2006年 球 季 首度 进入 NBA 总决赛 , 但 2 连胜 后 4 连 败 ,"
+[u'"\u7403\u961f \u65bc 1980\u5e74 \u6210\u7acb , \u65bc 2006\u5e74 \u7403 \u5b63 \u9996\u5ea6 \u8fdb\u5165 NBA \u603b\u51b3\u8d5b , \u4f46 2 \u8fde\u80dc \u540e 4 \u8fde \u8d25 ,"']
+{'targetLang': 'en', 'text': u'"\u8fbe\u62c9\u65af \u5c0f\u725b , \u662f \u4e00\u652f \u4f4d\u4e8e \u7f8e\u56fd \u5f97\u514b\u8428\u65af\u5dde \u8fbe\u62c9\u65af \u7684 NBA \u7bee\u7403\u961f , \u5206 \u5c5e\u4e8e \u897f\u533a \u7684 \u897f\u5357 \u7ec4 , \u4e3b\u573a \u4e3a \u7f8e \u822a \u4e2d\u5fc3 . \u7403\u961f \u8001\u677f \u662f \u4ee5 \u7f51\u9645\u7f51 \u8def \u751f\u610f \u5174 \u5bb6 , \u6562 \u6012 \u6562 \u8a00 \u7684 \u9a6c\u514b \xb7 \u5e93 \u73ed . \u7403\u961f \u65bc 1980\u5e74 \u6210\u7acb , \u65bc 2006\u5e74 \u7403 \u5b63 \u9996\u5ea6 \u8fdb\u5165 NBA \u603b\u51b3\u8d5b , \u4f46 2 \u8fde\u80dc \u540e 4 \u8fde \u8d25 ,"', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"达拉斯 小牛 , 是 一支 位于 美国 得克萨斯州 达拉斯 的 NBA 篮球队 , 分 属于 西区 的 西南 组 , 主场 为 美 航 中心 . 球�10.119.181.207 - - [27/Mar/2017 13:48:54] "POST / HTTP/1.1" 200 -
+2017-03-27 13:48:54,300 - worker - New translate task
+10.119.181.207 - - [27/Mar/2017 13:48:59] "POST / HTTP/1.1" 200 -
+2017-03-27 13:53:52,270 - worker - New translate task
+10.119.181.207 - - [27/Mar/2017 13:53:52] "POST / HTTP/1.1" 200 -
+2017-03-27 13:56:24,961 - worker - New translate task
+10.119.181.207 - - [27/Mar/2017 13:56:25] "POST / HTTP/1.1" 200 -
+2017-03-27 13:56:26,797 - worker - New translate task
+10.119.181.207 - - [27/Mar/2017 13:56:27] "POST / HTTP/1.1" 200 -
+2017-03-27 14:44:57,309 - worker - Merged configuration file: ../config/worker.cfg
+2017-03-27 14:44:57,309 - worker - Configuration loaded
+2017-03-27 14:44:57,309 - worker - Starting XML-RPC server on port 3334
+2017-03-27 14:44:57,331 - worker - Server started
+2017-03-29 16:00:16,259 - worker - Merged configuration file: ../config/worker.cfg
+2017-03-29 16:00:16,260 - worker - Configuration loaded
+2017-03-29 16:00:16,260 - worker - Starting XML-RPC server on port 3335
+2017-03-29 16:00:16,279 - worker - Server started
+2017-03-29 16:02:43,475 - worker - New translate task
+10.119.181.207 - - [29/Mar/2017 16:02:44] "POST / HTTP/1.1" 200 -
+2017-03-29 16:03:07,457 - worker - New translate task
+10.119.181.207 - - [29/Mar/2017 16:03:08] "POST / HTTP/1.1" 200 -
+2017-03-29 19:46:47,304 - worker - New translate task
+10.119.181.207 - - [29/Mar/2017 19:46:58] "POST / HTTP/1.1" 200 -
+2017-03-29 19:46:58,819 - worker - New translate task
+10.119.181.207 - - [29/Mar/2017 19:47:10] "POST / HTTP/1.1" 200 -
+2017-03-29 19:47:10,327 - worker - New translate task
+{'targetLang': 'pt', 'text': u'"\u4f60 \u60f3 \u5e72\u4ec0\u4e48 \u5440 ? ? ? "', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"你 想 干什么 呀 ? ? ? "
+[u'"\u4f60 \u60f3 \u5e72\u4ec0\u4e48 \u5440 ? ? ? "']
+{'targetLang': 'pt', 'text': u'"\u4f60 \u60f3 \u5e72\u4ec0\u4e48 \u5440 ? ? ? "', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+"你 想 干什么 呀 ? ? ? "
+[u'"\u4f60 \u60f3 \u5e72\u4ec0\u4e48 \u5440 ? ? ? "']
+{'targetLang': 'pt', 'text': u'\u73af\u4fdd , \u5168\u79f0 \u73af\u5883\u4fdd\u62a4 , \u662f \u6307 \u4eba\u7c7b \u4e3a \u89e3\u51b3 \u73b0\u5b9e \u7684 \u6216 \u6f5c\u5728 \u7684 \u73af\u5883 \u95ee\u9898 , \u534f\u8c03 \u4eba\u7c7b \u4e0e \u73af\u5883 \u7684 \u5173\u7cfb , \u4fdd\u969c \u7ecf\u6d4e \u793e\u4f1a \u7684 \u6301\u7eed \u53d1\u5c55 \u800c \u91c7\u53d6 \u7684 \u5404\u79cd \u884c\u52a8 \u7684 \u603b\u79f0 . \u5176 \u65b9\u6cd5 \u548c \u624b\u6bb5 \u6709 \u5de5\u7a0b \u6280\u672f \u7684 , \u884c\u653f\u7ba1\u7406 \u7684 , \u4e5f \u6709 \u6cd5\u5f8b \u7684 , \u7ecf\u6d4e \u7684 , \u5ba3\u4f20 \u6559\u80b2 \u7684 \u7b49 . ', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+环保 , 全称 环境保护 , 是 指 人类 为 解决 现实 的 或 潜在 的 环境 问题 , 协调 人类 与 环境 的 关系 , 保障 经济 社会 的 持续 发展 而 采取 的 各种 行动 的 总称 . 其 方法 和 手段 有 工程 技术 的 , 行政管理 的 , 也 有 法律 的 , 经济 的 , 宣传 教育 的 等 . 
+[u'\u73af\u4fdd , \u5168\u79f0 \u73af\u5883\u4fdd\u62a4 , \u662f \u6307 \u4eba\u7c7b \u4e3a \u89e3\u51b3 \u73b0\u5b9e \u7684 \u6216 \u6f5c\u5728 \u7684 \u73af\u5883 \u95ee\u9898 , \u534f\u8c03 \u4eba\u7c7b \u4e0e \u73af\u5883 \u7684 \u5173\u7cfb , \u4fdd\u969c \u7ecf\u6d4e \u793e\u4f1a \u7684 \u6301\u7eed \u53d1\u5c55 \u800c \u91c7\u53d6 \u7684 \u5404\u79cd \u884c\u52a8 \u7684 \u603b\u79f0 . \u5176 \u65b9\u6cd5 \u548c \u624b\u6bb5 \u6709 \u5de5\u7a0b \u6280\u672f \u7684 , \u884c\u653f\u7ba1\u7406 \u7684 , \u4e5f \u6709 \u6cd5\u5f8b \u7684 , \u7ecf\u6d4e \u7684 , \u5ba3\u4f20 \u6559\u80b2 \u7684 \u7b49 .']
+{'targetLang': 'pt', 'text': u'\u73af\u4fdd , \u5168\u79f0 \u73af\u5883\u4fdd\u62a4 , \u662f \u6307 \u4eba\u7c7b \u4e3a \u89e3\u51b3 \u73b0\u5b9e \u7684 \u6216 \u6f5c\u5728 \u7684 \u73af\u5883 \u95ee\u9898 , \u534f\u8c03 \u4eba\u7c7b \u4e0e \u73af\u5883 \u7684 \u5173\u7cfb , \u4fdd\u969c \u7ecf\u6d4e \u793e\u4f1a \u7684 \u6301\u7eed \u53d1\u5c55 \u800c \u91c7\u53d6 \u7684 \u5404\u79cd \u884c\u52a8 \u7684 \u603b\u79f0 . \u5176 \u65b9\u6cd5 \u548c \u624b\u6bb5 \u6709 \u5de5\u7a0b \u6280\u672f \u7684 , \u884c\u653f\u7ba1\u7406 \u7684 , \u4e5f \u6709 \u6cd5\u5f8b \u7684 , \u7ecf\u6d4e \u7684 , \u5ba3\u4f20 \u6559\u80b2 \u7684 \u7b49 . ', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+环保 , 全称 环境保护 , 是 指 人类 为 解决 现实 的 或 潜在 的 环境 问题 , 协调 人类 与 环境 的 关系 , 保障 经济 社会 的 持续 发展 而 采取 的 各种 行动 的 总称 . 其 方法 和 手段 有 工程 技术 的 , 行政管理 的 , 也 有 法律 的 , 经济 的 , 宣传 教育 的 等 . 
+[u'\u73af\u4fdd , \u5168\u79f0 \u73af\u5883\u4fdd\u62a4 , \u662f \u6307 \u4eba\u7c7b \u4e3a \u89e3\u51b3 \u73b0\u5b9e \u7684 \u6216 \u6f5c\u5728 \u7684 \u73af\u5883 \u95ee\u9898 , \u534f\u8c03 \u4eba\u7c7b \u4e0e \u73af\u5883 \u7684 \u5173\u7cfb , \u4fdd\u969c \u7ecf\u6d4e \u793e\u4f1a \u7684 \u6301\u7eed \u53d1\u5c55 \u800c \u91c7\u53d6 \u7684 \u5404\u79cd \u884c\u52a8 \u7684 \u603b\u79f0 . \u5176 \u65b9\u6cd5 \u548c \u624b\u6bb5 \u6709 \u5de5\u7a0b \u6280\u672f \u7684 , \u884c\u653f\u7ba1\u7406 \u7684 , \u4e5f \u6709 \u6cd5\u5f8b \u7684 , \u7ecf\u6d4e \u7684 , \u5ba3\u4f20 \u6559\u80b2 \u7684 \u7b49 .']
+{'targetLang': 'pt', 'text': u'\u73af\u4fdd , \u5168\u79f0 \u73af\u5883\u4fdd\u62a4 , \u662f \u6307 \u4eba\u7c7b \u4e3a \u89e3\u51b3 \u73b0\u5b9e \u7684 \u6216 \u6f5c\u5728 \u7684 \u73af\u5883 \u95ee\u9898 , \u534f\u8c03 \u4eba\u7c710.119.181.207 - - [29/Mar/2017 19:47:21] "POST / HTTP/1.1" 200 -
+2017-03-29 19:47:24,191 - worker - New translate task
+10.119.181.207 - - [29/Mar/2017 19:47:33] "POST / HTTP/1.1" 200 -
+2017-03-29 19:47:33,100 - worker - New translate task
+10.119.181.207 - - [29/Mar/2017 19:47:33] "POST / HTTP/1.1" 200 -
+2017-03-29 19:47:33,351 - worker - New translate task
+b \u4e0e \u73af\u5883 \u7684 \u5173\u7cfb , \u4fdd\u969c \u7ecf\u6d4e \u793e\u4f1a \u7684 \u6301\u7eed \u53d1\u5c55 \u800c \u91c7\u53d6 \u7684 \u5404\u79cd \u884c\u52a8 \u7684 \u603b\u79f0 . \u5176 \u65b9\u6cd5 \u548c \u624b\u6bb5 \u6709 \u5de5\u7a0b \u6280\u672f \u7684 , \u884c\u653f\u7ba1\u7406 \u7684 , \u4e5f \u6709 \u6cd5\u5f8b \u7684 , \u7ecf\u6d4e \u7684 , \u5ba3\u4f20 \u6559\u80b2 \u7684 \u7b49 . ', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+环保 , 全称 环境保护 , 是 指 人类 为 解决 现实 的 或 潜在 的 环境 问题 , 协调 人类 与 环境 的 关系 , 保障 经济 社会 的 持续 发展 而 采取 的 各种 行动 的 总称 . 其 方法 和 手段 有 工程 技术 的 , 行政管理 的 , 也 有 法律 的 , 经济 的 , 宣传 教育 的 等 . 
+[u'\u73af\u4fdd , \u5168\u79f0 \u73af\u5883\u4fdd\u62a4 , \u662f \u6307 \u4eba\u7c7b \u4e3a \u89e3\u51b3 \u73b0\u5b9e \u7684 \u6216 \u6f5c\u5728 \u7684 \u73af\u5883 \u95ee\u9898 , \u534f\u8c03 \u4eba\u7c7b \u4e0e \u73af\u5883 \u7684 \u5173\u7cfb , \u4fdd\u969c \u7ecf\u6d4e \u793e\u4f1a \u7684 \u6301\u7eed \u53d1\u5c55 \u800c \u91c7\u53d6 \u7684 \u5404\u79cd \u884c\u52a8 \u7684 \u603b\u79f0 . \u5176 \u65b9\u6cd5 \u548c \u624b\u6bb5 \u6709 \u5de5\u7a0b \u6280\u672f \u7684 , \u884c\u653f\u7ba1\u7406 \u7684 , \u4e5f \u6709 \u6cd5\u5f8b \u7684 , \u7ecf\u6d4e \u7684 , \u5ba3\u4f20 \u6559\u80b2 \u7684 \u7b49 .']
+{'targetLang': 'pt', 'text': u'1 . \u73af\u5883\u4fdd\u62a4 ( \u7b80\u79f0 \u73af\u4fdd ) \u7531\u4e8e \u5de5\u4e1a \u53d1\u5c55 \u5bfc\u81f4 \u73af\u5883\u6c61\u67d3 \u95ee\u9898 \u8fc7\u4e8e \u4e25\u91cd , \u9996\u5148 \u5f15\u8d77 \u5de5\u4e1a\u5316 \u56fd\u5bb6 \u7684 \u91cd\u89c6 \u800c \u4ea7\u751f \u7684 , \u5229\u7528 \u56fd\u5bb6 \u6cd5\u5f8b \u6cd5\u89c4 \u548c \u8206\u8bba \u5ba3\u4f20 \u800c \u4f7f \u5168\u793e\u4f1a \u91cd\u89c6 \u548c \u5904\u7406 \u6c61\u67d3 \u95ee\u9898 .', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+1 . 环境保护 ( 简称 环保 ) 由于 工业 发展 导致 环境污染 问题 过于 严重 , 首先 引起 工业化 国家 的 重视 而 产生 的 , 利用 国家 法律 法规 和 舆论 宣传 而 使 全社会 重视 和 处理 污染 问题 .
+[u'1 . \u73af\u5883\u4fdd\u62a4 ( \u7b80\u79f0 \u73af\u4fdd ) \u7531\u4e8e \u5de5\u4e1a \u53d1\u5c55 \u5bfc\u81f4 \u73af\u5883\u6c61\u67d3 \u95ee\u9898 \u8fc7\u4e8e \u4e25\u91cd , \u9996\u5148 \u5f15\u8d77 \u5de5\u4e1a\u5316 \u56fd\u5bb6 \u7684 \u91cd\u89c6 \u800c \u4ea7\u751f \u7684 , \u5229\u7528 \u56fd\u5bb6 \u6cd5\u5f8b \u6cd5\u89c4 \u548c \u8206\u8bba \u5ba3\u4f20 \u800c \u4f7f \u5168\u793e\u4f1a \u91cd\u89c6 \u548c \u5904\u7406 \u6c61\u67d3 \u95ee\u9898 .']
+{'targetLang': 'pt', 'text': u'\u4fdd\u62a4 ', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+保护 
+[u'\u4fdd\u62a4']
+{'targetLang': 'pt', 'text': u'1.1962 \u5e74 \u7f8e\u56fd \u751f\u7269\u5b66\u5bb6 \u660e\u786e \u4e86 \u519c\u836f \u6740\u866b\u5242 DDT \u5bf9 \u73af\u5883 \u7684 \u6c61\u67d3 \u548c \u7834\u574f \u73af\u5883 \u4f5c\u7528 , \u7531\u4e8e \u8be5 \u4e66 \u7684 \u8b66\u793a , \u7f8e\u56fd \u653f\u5e9c \u5f00\u59cb \u5bf9 \u5267\u6bd2 \u6740\u866b\u5242 \u95ee\u9898 \u8fdb\u884c \u8c03\u67e5 , \u5e76 \u4e8e 1970\u5e74 \u6210\u7acb \u4e86 \u73af\u5883\u4fdd\u62a4 \u5c40 , \u5404 \u5dde \u4e5f \u76f8\u7ee7 \u901a\u8fc7 \u7981\u6b62 \u751f\u4ea7 \u548c \u4f7f\u7528 \u5267\u6bd2 \u6740\u866b\u5242 \u7684 \u6cd5\u5f8b . \u7531\u4e8e \u6b64\u4e8b , \u8be5 \u4e66 \u88ab \u8ba4\u4e3a \u662f 20\u4e16\u7eaa \u73af\u5883 \u751f\u6001\u5b66 \u7684 \u6807\u5fd7 \u6027 \u8d77\u70b9 .', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+1.1962 年 美国 生物学家 明确 了 农药 杀虫剂 DDT 对 环境 的 污染 和 破坏 环境 作用 , 由于 该 书 的 警示 , 美国 政府 开始 对 剧毒 杀虫剂 问题 进行 调查 , 并 于 1970年 成立 了 环境保护 局 , 各 州 也 相继 通过 禁止 生产 和 使用 剧毒 杀虫剂 �10.119.181.207 - - [29/Mar/2017 19:47:48] "POST / HTTP/1.1" 200 -
+2017-03-29 19:47:48,591 - worker - New translate task
+10.119.181.207 - - [29/Mar/2017 19:47:58] "POST / HTTP/1.1" 200 -
+2017-03-29 19:47:58,772 - worker - New translate task
+� 法律 . 由于 此事 , 该 书 被 认为 是 20世纪 环境 生态学 的 标志 性 起点 .
+[u'1.1962 \u5e74 \u7f8e\u56fd \u751f\u7269\u5b66\u5bb6 \u660e\u786e \u4e86 \u519c\u836f \u6740\u866b\u5242 DDT \u5bf9 \u73af\u5883 \u7684 \u6c61\u67d3 \u548c \u7834\u574f \u73af\u5883 \u4f5c\u7528 , \u7531\u4e8e \u8be5 \u4e66 \u7684 \u8b66\u793a , \u7f8e\u56fd \u653f\u5e9c \u5f00\u59cb \u5bf9 \u5267\u6bd2 \u6740\u866b\u5242 \u95ee\u9898 \u8fdb\u884c \u8c03\u67e5 , \u5e76 \u4e8e 1970\u5e74 \u6210\u7acb \u4e86 \u73af\u5883\u4fdd\u62a4 \u5c40 , \u5404 \u5dde \u4e5f \u76f8\u7ee7 \u901a\u8fc7 \u7981\u6b62 \u751f\u4ea7 \u548c \u4f7f\u7528 \u5267\u6bd2 \u6740\u866b\u5242 \u7684 \u6cd5\u5f8b . \u7531\u4e8e \u6b64\u4e8b , \u8be5 \u4e66 \u88ab \u8ba4\u4e3a \u662f 20\u4e16\u7eaa \u73af\u5883 \u751f\u6001\u5b66 \u7684 \u6807\u5fd7 \u6027 \u8d77\u70b9 .']
+{'targetLang': 'pt', 'text': u'2.1972 \u5e74 6\u67085\u65e5\u81f316\u65e5 \u7531 \u8054\u5408\u56fd \u53d1\u8d77 , \u5728 \u65af\u5fb7\u54e5\u5c14\u6469 \u53ec\u5f00 " \u7b2c\u4e00\u5c4a \u8054\u5408\u56fd \u4eba\u7c7b \u73af\u5883 \u4f1a\u8bae " , \u63d0\u51fa \u4e86 \u8457\u540d \u7684 " \u4eba\u7c7b \u73af\u5883 \u5ba3\u8a00 " , \u662f \u73af\u5883\u4fdd\u62a4 \u4e8b\u4e1a \u6b63\u5f0f \u5f15\u8d77 \u4e16\u754c \u5404\u56fd \u653f\u5e9c \u91cd\u89c6 \u7684 \u5f00\u7aef . \u4e2d\u56fd\u653f\u5e9c \u4e5f \u53c2\u52a0 \u4e86 \u8fd9\u4e2a \u4f1a\u8bae .', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+2.1972 年 6月5日至16日 由 联合国 发起 , 在 斯德哥尔摩 召开 " 第一届 联合国 人类 环境 会议 " , 提出 了 著名 的 " 人类 环境 宣言 " , 是 环境保护 事业 正式 引起 世界 各国 政府 重视 的 开端 . 中国政府 也 参加 了 这个 会议 .
+[u'2.1972 \u5e74 6\u67085\u65e5\u81f316\u65e5 \u7531 \u8054\u5408\u56fd \u53d1\u8d77 , \u5728 \u65af\u5fb7\u54e5\u5c14\u6469 \u53ec\u5f00 " \u7b2c\u4e00\u5c4a \u8054\u5408\u56fd \u4eba\u7c7b \u73af\u5883 \u4f1a\u8bae " , \u63d0\u51fa \u4e86 \u8457\u540d \u7684 " \u4eba\u7c7b \u73af\u5883 \u5ba3\u8a00 " , \u662f \u73af\u5883\u4fdd\u62a4 \u4e8b\u4e1a \u6b63\u5f0f \u5f15\u8d77 \u4e16\u754c \u5404\u56fd \u653f\u5e9c \u91cd\u89c6 \u7684 \u5f00\u7aef . \u4e2d\u56fd\u653f\u5e9c \u4e5f \u53c2\u52a0 \u4e86 \u8fd9\u4e2a \u4f1a\u8bae .']
+{'targetLang': 'pt', 'text': u'3 . \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd \u7684 \u73af\u5883\u4fdd\u62a4 \u4e8b\u4e1a \u4e5f\u662f \u4ece 1972\u5e74 \u5f00\u59cb \u8d77\u6b65 , \u5317\u4eac\u5e02 \u6210\u7acb \u4e86 \u5b98\u5385\u6c34\u5e93 \u4fdd\u62a4 \u529e\u516c\u5ba4 , \u6cb3\u5317\u7701 \u6210\u7acb \u4e86 \u4e09\u5e9f \u5904\u7406 \u529e\u516c\u5ba4 \u5171\u540c\u7814\u7a76 \u5904\u7406 \u4f4d\u4e8e \u5b98\u5385\u6c34\u5e93 \u7554 \u5c5e\u4e8e \u6cb3\u5317\u7701 \u7684 \u6c99\u57ce \u519c\u836f \u5382 \u6c61\u67d3 \u5b98\u5385\u6c34\u5e93 \u95ee\u9898 , \u5bfc\u81f4 \u4e2d\u56fd \u9881\u5e03 \u6cd5\u5f8b \u6b63\u5f0f \u89c4\u5b9a \u5728 \u5168\u56fd \u8303\u56f4 \u5185 \u7981\u6b62 \u751f\u4ea7 \u548c \u4f7f\u7528 " DDT " .', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+3 . 中华人民共和国 的 环境保护 事业 也是 从 1972年 开始 起步 , 北京市 成立 了 官厅水库 保护 办公室 , 河北省 成立 了 三废 处理 办公室 共同研究 处理 位于 官厅水库 畔 属于 河北省 的 沙城 农药 厂 污染 官厅水库 问题 , 导致 中国 颁布 法律 正式 规定 在 全国 范围 内 禁止 生产 和 使用 " DDT " .
+[u'3 . \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd \u7684 \u73af\u5883\u4fdd\u62a4 \u4e8b\u4e1a \u4e5f\u662f \u4ece 1972\u5e74 \u5f00\u59cb \u8d77\u6b65 , \u5317\u4eac\u5e02 \u6210\u7acb \u4e86 \u5b98\u5385\u6c34\u5e93 \u4fdd\u62a4 \u529e\u516c\u5ba4 , \u6cb3\u5317\u7701 \u6210\u7acb \u4e86 \u4e09\u5e9f \u5904\u7406 \u529e\u516c\u5ba4 \u5171\u540c\u7814\u7a76 \u5904\u7406 \u4f4d\u4e8e \u5b98\u5385\u6c34\u5e93 \u7554 \u5c5e\u4e8e \u6cb3\u5317\u7701 \u7684 \u6c99\u57ce \u519c\u836f \u5382 \u6c61\u67d3 \u5b98\u5385\u6c34\u5e93 \u95ee\u9898 10.119.181.207 - - [29/Mar/2017 19:48:15] "POST / HTTP/1.1" 200 -
+2017-03-29 19:48:15,637 - worker - New translate task
+10.119.181.207 - - [29/Mar/2017 19:48:26] "POST / HTTP/1.1" 200 -
+2017-03-29 19:48:26,766 - worker - New translate task
+10.119.181.207 - - [29/Mar/2017 19:48:32] "POST / HTTP/1.1" 200 -
+2017-03-29 19:48:32,440 - worker - New translate task
+10.119.181.207 - - [29/Mar/2017 19:48:41] "POST / HTTP/1.1" 200 -
+2017-03-29 19:48:41,070 - worker - New translate task
+, \u5bfc\u81f4 \u4e2d\u56fd \u9881\u5e03 \u6cd5\u5f8b \u6b63\u5f0f \u89c4\u5b9a \u5728 \u5168\u56fd \u8303\u56f4 \u5185 \u7981\u6b62 \u751f\u4ea7 \u548c \u4f7f\u7528 " DDT " .']
+{'targetLang': 'pt', 'text': u'4.1973 \u5e74 \u6210\u7acb \u56fd\u5bb6 \u5efa\u59d4 \u4e0b\u8bbe \u7684 \u73af\u5883\u4fdd\u62a4 \u529e\u516c\u5ba4 , \u540e\u6765 \u6539\u4e3a \u7531 \u56fd\u52a1\u9662 \u76f4\u5c5e \u7684 \u90e8\u7ea7 \u56fd\u5bb6 \u73af\u5883\u4fdd\u62a4 \u603b\u5c40 . \u5728 2008\u5e74 " \u4e24\u4f1a " , \u73af\u4fdd \u603b\u5c40 \u5347\u683c\u4e3a " \u73af\u4fdd \u603b\u90e8 " . \u5e76 \u5bf9 \u5168\u56fd \u7684 \u73af\u5883\u4fdd\u62a4 \u5b9e\u65bd \u7edf\u4e00 \u7684 \u76d1\u7763 \u7ba1\u7406 .', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+4.1973 年 成立 国家 建委 下设 的 环境保护 办公室 , 后来 改为 由 国务院 直属 的 部级 国家 环境保护 总局 . 在 2008年 " 两会 " , 环保 总局 升格为 " 环保 总部 " . 并 对 全国 的 环境保护 实施 统一 的 监督 管理 .
+[u'4.1973 \u5e74 \u6210\u7acb \u56fd\u5bb6 \u5efa\u59d4 \u4e0b\u8bbe \u7684 \u73af\u5883\u4fdd\u62a4 \u529e\u516c\u5ba4 , \u540e\u6765 \u6539\u4e3a \u7531 \u56fd\u52a1\u9662 \u76f4\u5c5e \u7684 \u90e8\u7ea7 \u56fd\u5bb6 \u73af\u5883\u4fdd\u62a4 \u603b\u5c40 . \u5728 2008\u5e74 " \u4e24\u4f1a " , \u73af\u4fdd \u603b\u5c40 \u5347\u683c\u4e3a " \u73af\u4fdd \u603b\u90e8 " . \u5e76 \u5bf9 \u5168\u56fd \u7684 \u73af\u5883\u4fdd\u62a4 \u5b9e\u65bd \u7edf\u4e00 \u7684 \u76d1\u7763 \u7ba1\u7406 .']
+{'targetLang': 'pt', 'text': u'5 . \u5404\u7701 ( \u5e02 , \u533a ) \u4e5f \u76f8\u7ee7 \u6210\u7acb \u4e86 \u73af\u4fdd\u5c40 ( \u5385 ) . \u5e76 \u8bbe\u7acb \u73af\u4fdd\u5c40 \u70ed\u7ebf 12369 \u548c \u7f51\u4e0a 12369 \u4e2d\u5fc3 , \u63a5\u53d7 \u7fa4\u4f17 \u4e3e\u62a5 \u73af\u5883\u6c61\u67d3 \u4e8b\u4ef6 .', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+5 . 各省 ( 市 , 区 ) 也 相继 成立 了 环保局 ( 厅 ) . 并 设立 环保局 热线 12369 和 网上 12369 中心 , 接受 群众 举报 环境污染 事件 .
+[u'5 . \u5404\u7701 ( \u5e02 , \u533a ) \u4e5f \u76f8\u7ee7 \u6210\u7acb \u4e86 \u73af\u4fdd\u5c40 ( \u5385 ) . \u5e76 \u8bbe\u7acb \u73af\u4fdd\u5c40 \u70ed\u7ebf 12369 \u548c \u7f51\u4e0a 12369 \u4e2d\u5fc3 , \u63a5\u53d7 \u7fa4\u4f17 \u4e3e\u62a5 \u73af\u5883\u6c61\u67d3 \u4e8b\u4ef6 .']
+{'targetLang': 'pt', 'text': u'1 . \u73af\u5883\u4fdd\u62a4 ( \u7b80\u79f0 \u73af\u4fdd ) \u7531\u4e8e \u5de5\u4e1a \u53d1\u5c55 \u5bfc\u81f4 \u73af\u5883\u6c61\u67d3 \u95ee\u9898 \u8fc7\u4e8e \u4e25\u91cd , \u9996\u5148 \u5f15\u8d77 \u5de5\u4e1a\u5316 \u56fd\u5bb6 \u7684 \u91cd\u89c6 \u800c \u4ea7\u751f \u7684 , \u5229\u7528 \u56fd\u5bb6 \u6cd5\u5f8b \u6cd5\u89c4 \u548c \u8206\u8bba \u5ba3\u4f20 \u800c \u4f7f \u5168\u793e\u4f1a \u91cd\u89c6 \u548c \u5904\u7406 \u6c61\u67d3 \u95ee\u9898 .', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+1 . 环境保护 ( 简称 环保 ) 由于 工业 发展 导致 环境污染 问题 过于 严重 , 首先 引起 工业化 国家 的 重视 而 产生 的 , 利用 国家 法律 法规 和 舆论 宣传 而 使 全社会 重视 和 处理 污染 问题 .
+[u'1 . \u73af\u5883\u4fdd\u62a4 ( \u7b80\u79f0 \u73af\u4fdd ) \u7531\u4e8e \u5de5\u4e1a \u53d1\u5c55 \u5bfc\u81f4 \u73af\u5883\u6c61\u67d3 \u95ee\u9898 \u8fc7\u4e8e \u4e25\u91cd , \u9996\u5148 \u5f15\u8d77 \u5de5\u4e1a\u5316 \u56fd\u5bb6 \u7684 \u91cd\u89c6 \u800c \u4ea7\u751f \u7684 , \u5229\u7528 \u56fd\u5bb6 \u6cd5\u5f8b \u6cd5\u89c4 \u548c \u8206\u8bba \u5ba3\u4f20 \u800c \u4f7f \u5168\u793e\u4f1a \u91cd\u89c6 \u548c \u5904\u7406 \u6c61\u67d3 \u95ee\u9898 .']
+{'targetLang': 'pt', 'text': u'1 . \u73af\u5883\u4fdd\u62a4 ( \u7b80\u79f0 \u73af\u4fdd ) \u7531\u4e8e \u5de5\u4e1a \u53d1\u5c55 \u5bfc\u81f4 \u73af\u5883\u6c61\u67d3 \u95ee\u9898 \u8fc7\u4e8e \u4e25\u91cd , \u9996\u5148 \u5f15\u8d77 \u5de5\u4e1a\u5316 \u56fd\u5bb6 \u7684 \u91cd\u89c6 \u800c \u4ea7\u751f \u7684 , \u5229\u7528 \u56fd\u5bb6 \u6cd5\u5f8b \u6cd5\u89c410.119.181.207 - - [29/Mar/2017 19:48:49] "POST / HTTP/1.1" 200 -
+2017-03-29 19:48:49,701 - worker - New translate task
+10.119.181.207 - - [29/Mar/2017 19:48:58] "POST / HTTP/1.1" 200 -
+2017-03-29 19:56:13,332 - worker - New translate task
+10.119.181.207 - - [29/Mar/2017 19:56:21] "POST / HTTP/1.1" 200 -
+2017-03-29 19:56:21,993 - worker - New translate task
+10.119.181.207 - - [29/Mar/2017 19:56:22] "POST / HTTP/1.1" 200 -
+2017-03-29 19:56:22,245 - worker - New translate task
+ \u548c \u8206\u8bba \u5ba3\u4f20 \u800c \u4f7f \u5168\u793e\u4f1a \u91cd\u89c6 \u548c \u5904\u7406 \u6c61\u67d3 \u95ee\u9898 .', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+1 . 环境保护 ( 简称 环保 ) 由于 工业 发展 导致 环境污染 问题 过于 严重 , 首先 引起 工业化 国家 的 重视 而 产生 的 , 利用 国家 法律 法规 和 舆论 宣传 而 使 全社会 重视 和 处理 污染 问题 .
+[u'1 . \u73af\u5883\u4fdd\u62a4 ( \u7b80\u79f0 \u73af\u4fdd ) \u7531\u4e8e \u5de5\u4e1a \u53d1\u5c55 \u5bfc\u81f4 \u73af\u5883\u6c61\u67d3 \u95ee\u9898 \u8fc7\u4e8e \u4e25\u91cd , \u9996\u5148 \u5f15\u8d77 \u5de5\u4e1a\u5316 \u56fd\u5bb6 \u7684 \u91cd\u89c6 \u800c \u4ea7\u751f \u7684 , \u5229\u7528 \u56fd\u5bb6 \u6cd5\u5f8b \u6cd5\u89c4 \u548c \u8206\u8bba \u5ba3\u4f20 \u800c \u4f7f \u5168\u793e\u4f1a \u91cd\u89c6 \u548c \u5904\u7406 \u6c61\u67d3 \u95ee\u9898 .']
+{'targetLang': 'pt', 'text': u'1 . \u73af\u5883\u4fdd\u62a4 ( \u7b80\u79f0 \u73af\u4fdd ) \u7531\u4e8e \u5de5\u4e1a \u53d1\u5c55 \u5bfc\u81f4 \u73af\u5883\u6c61\u67d3 \u95ee\u9898 \u8fc7\u4e8e \u4e25\u91cd , \u9996\u5148 \u5f15\u8d77 \u5de5\u4e1a\u5316 \u56fd\u5bb6 \u7684 \u91cd\u89c6 \u800c \u4ea7\u751f \u7684 , \u5229\u7528 \u56fd\u5bb6 \u6cd5\u5f8b \u6cd5\u89c4 \u548c \u8206\u8bba \u5ba3\u4f20 \u800c \u4f7f \u5168\u793e\u4f1a \u91cd\u89c6 \u548c \u5904\u7406 \u6c61\u67d3 \u95ee\u9898 .', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+1 . 环境保护 ( 简称 环保 ) 由于 工业 发展 导致 环境污染 问题 过于 严重 , 首先 引起 工业化 国家 的 重视 而 产生 的 , 利用 国家 法律 法规 和 舆论 宣传 而 使 全社会 重视 和 处理 污染 问题 .
+[u'1 . \u73af\u5883\u4fdd\u62a4 ( \u7b80\u79f0 \u73af\u4fdd ) \u7531\u4e8e \u5de5\u4e1a \u53d1\u5c55 \u5bfc\u81f4 \u73af\u5883\u6c61\u67d3 \u95ee\u9898 \u8fc7\u4e8e \u4e25\u91cd , \u9996\u5148 \u5f15\u8d77 \u5de5\u4e1a\u5316 \u56fd\u5bb6 \u7684 \u91cd\u89c6 \u800c \u4ea7\u751f \u7684 , \u5229\u7528 \u56fd\u5bb6 \u6cd5\u5f8b \u6cd5\u89c4 \u548c \u8206\u8bba \u5ba3\u4f20 \u800c \u4f7f \u5168\u793e\u4f1a \u91cd\u89c6 \u548c \u5904\u7406 \u6c61\u67d3 \u95ee\u9898 .']
+{'targetLang': 'pt', 'text': u'1 . \u73af\u5883\u4fdd\u62a4 ( \u7b80\u79f0 \u73af\u4fdd ) \u7531\u4e8e \u5de5\u4e1a \u53d1\u5c55 \u5bfc\u81f4 \u73af\u5883\u6c61\u67d3 \u95ee\u9898 \u8fc7\u4e8e \u4e25\u91cd , \u9996\u5148 \u5f15\u8d77 \u5de5\u4e1a\u5316 \u56fd\u5bb6 \u7684 \u91cd\u89c6 \u800c \u4ea7\u751f \u7684 , \u5229\u7528 \u56fd\u5bb6 \u6cd5\u5f8b \u6cd5\u89c4 \u548c \u8206\u8bba \u5ba3\u4f20 \u800c \u4f7f \u5168\u793e\u4f1a \u91cd\u89c6 \u548c \u5904\u7406 \u6c61\u67d3 \u95ee\u9898 .', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+1 . 环境保护 ( 简称 环保 ) 由于 工业 发展 导致 环境污染 问题 过于 严重 , 首先 引起 工业化 国家 的 重视 而 产生 的 , 利用 国家 法律 法规 和 舆论 宣传 而 使 全社会 重视 和 处理 污染 问题 .
+[u'1 . \u73af\u5883\u4fdd\u62a4 ( \u7b80\u79f0 \u73af\u4fdd ) \u7531\u4e8e \u5de5\u4e1a \u53d1\u5c55 \u5bfc\u81f4 \u73af\u5883\u6c61\u67d3 \u95ee\u9898 \u8fc7\u4e8e \u4e25\u91cd , \u9996\u5148 \u5f15\u8d77 \u5de5\u4e1a\u5316 \u56fd\u5bb6 \u7684 \u91cd\u89c6 \u800c \u4ea7\u751f \u7684 , \u5229\u7528 \u56fd\u5bb6 \u6cd5\u5f8b \u6cd5\u89c4 \u548c \u8206\u8bba \u5ba3\u4f20 \u800c \u4f7f \u5168\u793e\u4f1a \u91cd\u89c6 \u548c \u5904\u7406 \u6c61\u67d3 \u95ee\u9898 .']
+{'targetLang': 'pt', 'text': u'\u4fdd\u62a4 ', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+保护 
+[u'\u4fdd\u62a4']
+{'targetLang': 'pt', 'text': u'1.1962 \u5e74 \u7f8e\u56fd \u751f\u7269\u5b66\u5bb6 \u660e\u786e \u4e86 \u519c\u836f \u6740\u866b\u5242 DDT \u5bf9 \u73af\u5883 \u7684 \u6c61\u67d3 \u548c \u7834\u574f \u73af\u5883 \u4f5c\u7528 , \u7531\u4e8e \u8be5 \u4e66 \u7684 \u8b66\u793a , \u7f8e\u56fd \u653f\u5e9c \u5f00\u59cb \u5bf9 \u5267\u6bd2 \u6740\u866b\u5242 \u95ee\u9898 \u8fdb\u884c \u8c03\u67e5 10.119.181.207 - - [29/Mar/2017 19:56:37] "POST / HTTP/1.1" 200 -
+2017-03-29 19:56:37,473 - worker - New translate task
+10.119.181.207 - - [29/Mar/2017 19:56:47] "POST / HTTP/1.1" 200 -
+2017-03-29 19:56:47,650 - worker - New translate task
+, \u5e76 \u4e8e 1970\u5e74 \u6210\u7acb \u4e86 \u73af\u5883\u4fdd\u62a4 \u5c40 , \u5404 \u5dde \u4e5f \u76f8\u7ee7 \u901a\u8fc7 \u7981\u6b62 \u751f\u4ea7 \u548c \u4f7f\u7528 \u5267\u6bd2 \u6740\u866b\u5242 \u7684 \u6cd5\u5f8b . \u7531\u4e8e \u6b64\u4e8b , \u8be5 \u4e66 \u88ab \u8ba4\u4e3a \u662f 20\u4e16\u7eaa \u73af\u5883 \u751f\u6001\u5b66 \u7684 \u6807\u5fd7 \u6027 \u8d77\u70b9 .', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+1.1962 年 美国 生物学家 明确 了 农药 杀虫剂 DDT 对 环境 的 污染 和 破坏 环境 作用 , 由于 该 书 的 警示 , 美国 政府 开始 对 剧毒 杀虫剂 问题 进行 调查 , 并 于 1970年 成立 了 环境保护 局 , 各 州 也 相继 通过 禁止 生产 和 使用 剧毒 杀虫剂 的 法律 . 由于 此事 , 该 书 被 认为 是 20世纪 环境 生态学 的 标志 性 起点 .
+[u'1.1962 \u5e74 \u7f8e\u56fd \u751f\u7269\u5b66\u5bb6 \u660e\u786e \u4e86 \u519c\u836f \u6740\u866b\u5242 DDT \u5bf9 \u73af\u5883 \u7684 \u6c61\u67d3 \u548c \u7834\u574f \u73af\u5883 \u4f5c\u7528 , \u7531\u4e8e \u8be5 \u4e66 \u7684 \u8b66\u793a , \u7f8e\u56fd \u653f\u5e9c \u5f00\u59cb \u5bf9 \u5267\u6bd2 \u6740\u866b\u5242 \u95ee\u9898 \u8fdb\u884c \u8c03\u67e5 , \u5e76 \u4e8e 1970\u5e74 \u6210\u7acb \u4e86 \u73af\u5883\u4fdd\u62a4 \u5c40 , \u5404 \u5dde \u4e5f \u76f8\u7ee7 \u901a\u8fc7 \u7981\u6b62 \u751f\u4ea7 \u548c \u4f7f\u7528 \u5267\u6bd2 \u6740\u866b\u5242 \u7684 \u6cd5\u5f8b . \u7531\u4e8e \u6b64\u4e8b , \u8be5 \u4e66 \u88ab \u8ba4\u4e3a \u662f 20\u4e16\u7eaa \u73af\u5883 \u751f\u6001\u5b66 \u7684 \u6807\u5fd7 \u6027 \u8d77\u70b9 .']
+{'targetLang': 'pt', 'text': u'2.1972 \u5e74 6\u67085\u65e5\u81f316\u65e5 \u7531 \u8054\u5408\u56fd \u53d1\u8d77 , \u5728 \u65af\u5fb7\u54e5\u5c14\u6469 \u53ec\u5f00 " \u7b2c\u4e00\u5c4a \u8054\u5408\u56fd \u4eba\u7c7b \u73af\u5883 \u4f1a\u8bae " , \u63d0\u51fa \u4e86 \u8457\u540d \u7684 " \u4eba\u7c7b \u73af\u5883 \u5ba3\u8a00 " , \u662f \u73af\u5883\u4fdd\u62a4 \u4e8b\u4e1a \u6b63\u5f0f \u5f15\u8d77 \u4e16\u754c \u5404\u56fd \u653f\u5e9c \u91cd\u89c6 \u7684 \u5f00\u7aef . \u4e2d\u56fd\u653f\u5e9c \u4e5f \u53c2\u52a0 \u4e86 \u8fd9\u4e2a \u4f1a\u8bae .', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+2.1972 年 6月5日至16日 由 联合国 发起 , 在 斯德哥尔摩 召开 " 第一届 联合国 人类 环境 会议 " , 提出 了 著名 的 " 人类 环境 宣言 " , 是 环境保护 事业 正式 引起 世界 各国 政府 重视 的 开端 . 中国政府 也 参加 了 这个 会议 .
+[u'2.1972 \u5e74 6\u67085\u65e5\u81f316\u65e5 \u7531 \u8054\u5408\u56fd \u53d1\u8d77 , \u5728 \u65af\u5fb7\u54e5\u5c14\u6469 \u53ec\u5f00 " \u7b2c\u4e00\u5c4a \u8054\u5408\u56fd \u4eba\u7c7b \u73af\u5883 \u4f1a\u8bae " , \u63d0\u51fa \u4e86 \u8457\u540d \u7684 " \u4eba\u7c7b \u73af\u5883 \u5ba3\u8a00 " , \u662f \u73af\u5883\u4fdd\u62a4 \u4e8b\u4e1a \u6b63\u5f0f \u5f15\u8d77 \u4e16\u754c \u5404\u56fd \u653f\u5e9c \u91cd\u89c6 \u7684 \u5f00\u7aef . \u4e2d\u56fd\u653f\u5e9c \u4e5f \u53c2\u52a0 \u4e86 \u8fd9\u4e2a \u4f1a\u8bae .']
+{'targetLang': 'pt', 'text': u'1 . \u73af\u5883\u4fdd\u62a4 ( \u7b80\u79f0 \u73af\u4fdd ) \u7531\u4e8e \u5de5\u4e1a \u53d1\u5c55 \u5bfc\u81f4 \u73af\u5883\u6c61\u67d3 \u95ee\u9898 \u8fc7\u4e8e \u4e25\u91cd , \u9996\u5148 \u5f15\u8d77 \u5de5\u4e1a\u5316 \u56fd\u5bb6 \u7684 \u91cd\u89c6 \u800c \u4ea7\u751f \u7684 , \u5229\u7528 \u56fd\u5bb6 \u6cd5\u5f8b \u6cd5\u89c4 \u548c \u8206\u8bba \u5ba3\u4f20 \u800c \u4f7f \u5168\u793e\u4f1a \u91cd\u89c6 \u548c \u5904\u7406 \u6c61\u67d3 \u95ee\u9898 .', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+1 . 环境保护 ( 简称 环保 ) 由于 工业 发展 导致 环境污染 问题 过于 严重 , 首先 引起 工业化 国家 的 重视 而 产生 的 , 利用 国家 法律 法规 和 舆论 宣传 而 使 全社会 重视 和 处理 污染 问题 .
+[u'1 . \u73af\u5883\u4fdd\u62a4 ( \u7b80\u79f0 \u73af\u4fdd ) \u7531\u4e8e \u5de5\u4e1a \u53d1\u5c55 \u5bfc\u81f4 \u73af\u5883\u6c61\u67d3 10.119.181.207 - - [29/Mar/2017 19:56:56] "POST / HTTP/1.1" 200 -
+2017-03-29 19:56:56,278 - worker - New translate task
+10.119.181.207 - - [29/Mar/2017 19:57:04] "POST / HTTP/1.1" 200 -
+2017-03-30 12:47:19,369 - worker - New translate task
+10.119.181.207 - - [30/Mar/2017 12:47:23] "POST / HTTP/1.1" 200 -
+2017-03-30 12:47:23,636 - worker - New translate task
+10.119.181.207 - - [30/Mar/2017 12:47:24] "POST / HTTP/1.1" 200 -
+2017-03-30 12:47:24,653 - worker - New translate task
+10.119.181.207 - - [30/Mar/2017 12:47:25] "POST / HTTP/1.1" 200 -
+2017-03-30 12:47:25,840 - worker - New translate task
+10.119.181.207 - - [30/Mar/2017 12:47:27] "POST / HTTP/1.1" 200 -
+2017-03-30 12:47:27,940 - worker - New translate task
+\u95ee\u9898 \u8fc7\u4e8e \u4e25\u91cd , \u9996\u5148 \u5f15\u8d77 \u5de5\u4e1a\u5316 \u56fd\u5bb6 \u7684 \u91cd\u89c6 \u800c \u4ea7\u751f \u7684 , \u5229\u7528 \u56fd\u5bb6 \u6cd5\u5f8b \u6cd5\u89c4 \u548c \u8206\u8bba \u5ba3\u4f20 \u800c \u4f7f \u5168\u793e\u4f1a \u91cd\u89c6 \u548c \u5904\u7406 \u6c61\u67d3 \u95ee\u9898 .']
+{'targetLang': 'pt', 'text': u'1 . \u73af\u5883\u4fdd\u62a4 ( \u7b80\u79f0 \u73af\u4fdd ) \u7531\u4e8e \u5de5\u4e1a \u53d1\u5c55 \u5bfc\u81f4 \u73af\u5883\u6c61\u67d3 \u95ee\u9898 \u8fc7\u4e8e \u4e25\u91cd , \u9996\u5148 \u5f15\u8d77 \u5de5\u4e1a\u5316 \u56fd\u5bb6 \u7684 \u91cd\u89c6 \u800c \u4ea7\u751f \u7684 , \u5229\u7528 \u56fd\u5bb6 \u6cd5\u5f8b \u6cd5\u89c4 \u548c \u8206\u8bba \u5ba3\u4f20 \u800c \u4f7f \u5168\u793e\u4f1a \u91cd\u89c6 \u548c \u5904\u7406 \u6c61\u67d3 \u95ee\u9898 .', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+1 . 环境保护 ( 简称 环保 ) 由于 工业 发展 导致 环境污染 问题 过于 严重 , 首先 引起 工业化 国家 的 重视 而 产生 的 , 利用 国家 法律 法规 和 舆论 宣传 而 使 全社会 重视 和 处理 污染 问题 .
+[u'1 . \u73af\u5883\u4fdd\u62a4 ( \u7b80\u79f0 \u73af\u4fdd ) \u7531\u4e8e \u5de5\u4e1a \u53d1\u5c55 \u5bfc\u81f4 \u73af\u5883\u6c61\u67d3 \u95ee\u9898 \u8fc7\u4e8e \u4e25\u91cd , \u9996\u5148 \u5f15\u8d77 \u5de5\u4e1a\u5316 \u56fd\u5bb6 \u7684 \u91cd\u89c6 \u800c \u4ea7\u751f \u7684 , \u5229\u7528 \u56fd\u5bb6 \u6cd5\u5f8b \u6cd5\u89c4 \u548c \u8206\u8bba \u5ba3\u4f20 \u800c \u4f7f \u5168\u793e\u4f1a \u91cd\u89c6 \u548c \u5904\u7406 \u6c61\u67d3 \u95ee\u9898 .']
+{'targetLang': 'pt', 'text': u'\u5316\u7597 \u540e \u7684 \u75c5\u4eba \u901a\u5e38 \u611f\u89c9 \u975e\u5e38 \u6076\u5fc3 , \u5316\u7597 \u540e \u7684 \u75c5\u4eba \u901a\u5e38 \u611f\u89c9 \u975e\u5e38 \u6076\u5fc3 , \u6240\u4ee5 \u4ed6\u4eec \u66f4 \u60f3 \u8d70\u56de \u5bbe\u9986 . ', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+化疗 后 的 病人 通常 感觉 非常 恶心 , 化疗 后 的 病人 通常 感觉 非常 恶心 , 所以 他们 更 想 走回 宾馆 . 
+[u'\u5316\u7597 \u540e \u7684 \u75c5\u4eba \u901a\u5e38 \u611f\u89c9 \u975e\u5e38 \u6076\u5fc3 , \u5316\u7597 \u540e \u7684 \u75c5\u4eba \u901a\u5e38 \u611f\u89c9 \u975e\u5e38 \u6076\u5fc3 , \u6240\u4ee5 \u4ed6\u4eec \u66f4 \u60f3 \u8d70\u56de \u5bbe\u9986 .']
+{'targetLang': 'pt', 'text': u'\u8fd9\u5c31 \u5f62\u6210 \u4e86 \u8fd9\u4e48 \u4e00\u6761 \u5bf9\u89d2\u7ebf \u7684 \u5fc3\u4eea \u5c0f\u8def . ', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+这就 形成 了 这么 一条 对角线 的 心仪 小路 . 
+[u'\u8fd9\u5c31 \u5f62\u6210 \u4e86 \u8fd9\u4e48 \u4e00\u6761 \u5bf9\u89d2\u7ebf \u7684 \u5fc3\u4eea \u5c0f\u8def .']
+{'targetLang': 'pt', 'text': u'\u75c5\u4eba \u4eec \u751a\u81f3 \u7ed9 \u5b83 \u8d77 \u4e86 \u540d\u5b57 - - \u5316\u7597 \u4e4b\u8def . ', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+病人 们 甚至 给 它 起 了 名字 - - 化疗 之路 . 
+[u'\u75c5\u4eba \u4eec \u751a\u81f3 \u7ed9 \u5b83 \u8d77 \u4e86 \u540d\u5b57 - - \u5316\u7597 \u4e4b\u8def .']
+{'targetLang': 'pt', 'text': u'\u5f53 \u533b\u9662 \u6700 \u5f00\u59cb \u6ce8\u610f\u5230 \u8fd9 \u6761 \u5c0f\u8def \u7684 \u65f6\u5019 \u4ed6\u4eec \u7ed9 \u8fd9 \u6761 \u8def \u91cd\u65b0 \u94fa\u4e0a \u8349\u76ae , \u5e76 \u6ca1\u6709 \u91cd\u89c6 . ', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+当 医院 最 开始 注意到 这 条 小路 的 时候 他们 给 这 条 路 重新 铺上 草皮 , 并 没有 重视 . 
+[u'\u5f53 \u533b\u9662 \u6700 \u5f00\u59cb \u6ce8\u610f\u5230 \u8fd9 \u6761 \u5c0f\u8def \u7684 \u65f6\u5019 \u4ed6\u4eec \u7ed9 \u8fd9 \u6761 \u8def \u91cd\u65b0 \u94fa\u4e0a \u8349\u76ae , \u5e76 \u6ca1\u6709 \u91cd\u89c6 .']
+{'targetLang': 'pt', 'text': u'\u4f46\u662f \u5f88\u5feb \u5730 , \u4ed6\u4eec \u610f\u8bc6\u5230 \u8fd9 \u6761 \u5c0f\u8def \u7684 \u91cd\u8981\u6027 , \u75c5\u4eba \u771f\u7684 \u910.119.181.207 - - [30/Mar/2017 12:47:30] "POST / HTTP/1.1" 200 -
+2017-03-30 12:47:31,002 - worker - New translate task
+10.119.181.207 - - [30/Mar/2017 12:47:32] "POST / HTTP/1.1" 200 -
+2017-03-30 12:47:32,745 - worker - New translate task
+10.119.181.207 - - [30/Mar/2017 12:47:36] "POST / HTTP/1.1" 200 -
+2017-03-30 12:47:36,679 - worker - New translate task
+10.119.181.207 - - [30/Mar/2017 12:47:37] "POST / HTTP/1.1" 200 -
+2017-03-30 12:47:37,695 - worker - New translate task
+10.119.181.207 - - [30/Mar/2017 12:47:38] "POST / HTTP/1.1" 200 -
+2017-03-30 12:47:38,882 - worker - New translate task
+10.119.181.207 - - [30/Mar/2017 12:47:40] "POST / HTTP/1.1" 200 -
+2017-03-30 12:47:40,981 - worker - New translate task
+700\u8981 \u8d70 \u8fd9 \u6761 \u8def \u4e8e\u662f \u4ed6\u4eec \u628a \u8fd9 \u6761 \u8def \u94fa \u4e86 \u51fa\u6765 ', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+但是 很快 地 , 他们 意识到 这 条 小路 的 重要性 , 病人 真的 需要 走 这 条 路 于是 他们 把 这 条 路 铺 了 出来 
+[u'\u4f46\u662f \u5f88\u5feb \u5730 , \u4ed6\u4eec \u610f\u8bc6\u5230 \u8fd9 \u6761 \u5c0f\u8def \u7684 \u91cd\u8981\u6027 , \u75c5\u4eba \u771f\u7684 \u9700\u8981 \u8d70 \u8fd9 \u6761 \u8def \u4e8e\u662f \u4ed6\u4eec \u628a \u8fd9 \u6761 \u8def \u94fa \u4e86 \u51fa\u6765']
+{'targetLang': 'pt', 'text': u'\u6211 \u8ba4\u4e3a \u6211\u4eec \u8bbe\u8ba1\u5e08 \u7684 \u5de5\u4f5c , \u5c31\u662f \u94fa \u51fa \u8fd9\u4e9b \u9010\u6e10 \u51fa\u73b0 \u7684 \u5fc3\u4eea \u5c0f\u8def . ', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+我 认为 我们 设计师 的 工作 , 就是 铺 出 这些 逐渐 出现 的 心仪 小路 . 
+[u'\u6211 \u8ba4\u4e3a \u6211\u4eec \u8bbe\u8ba1\u5e08 \u7684 \u5de5\u4f5c , \u5c31\u662f \u94fa \u51fa \u8fd9\u4e9b \u9010\u6e10 \u51fa\u73b0 \u7684 \u5fc3\u4eea \u5c0f\u8def .']
+{'targetLang': 'pt', 'text': u'\u5316\u7597 \u540e \u7684 \u75c5\u4eba \u901a\u5e38 \u611f\u89c9 \u975e\u5e38 \u6076\u5fc3 , \u5316\u7597 \u540e \u7684 \u75c5\u4eba \u901a\u5e38 \u611f\u89c9 \u975e\u5e38 \u6076\u5fc3 , \u6240\u4ee5 \u4ed6\u4eec \u66f4 \u60f3 \u8d70\u56de \u5bbe\u9986 . ', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+化疗 后 的 病人 通常 感觉 非常 恶心 , 化疗 后 的 病人 通常 感觉 非常 恶心 , 所以 他们 更 想 走回 宾馆 . 
+[u'\u5316\u7597 \u540e \u7684 \u75c5\u4eba \u901a\u5e38 \u611f\u89c9 \u975e\u5e38 \u6076\u5fc3 , \u5316\u7597 \u540e \u7684 \u75c5\u4eba \u901a\u5e38 \u611f\u89c9 \u975e\u5e38 \u6076\u5fc3 , \u6240\u4ee5 \u4ed6\u4eec \u66f4 \u60f3 \u8d70\u56de \u5bbe\u9986 .']
+{'targetLang': 'pt', 'text': u'\u8fd9\u5c31 \u5f62\u6210 \u4e86 \u8fd9\u4e48 \u4e00\u6761 \u5bf9\u89d2\u7ebf \u7684 \u5fc3\u4eea \u5c0f\u8def . ', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+这就 形成 了 这么 一条 对角线 的 心仪 小路 . 
+[u'\u8fd9\u5c31 \u5f62\u6210 \u4e86 \u8fd9\u4e48 \u4e00\u6761 \u5bf9\u89d2\u7ebf \u7684 \u5fc3\u4eea \u5c0f\u8def .']
+{'targetLang': 'pt', 'text': u'\u75c5\u4eba \u4eec \u751a\u81f3 \u7ed9 \u5b83 \u8d77 \u4e86 \u540d\u5b57 - - \u5316\u7597 \u4e4b\u8def . ', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+病人 们 甚至 给 它 起 了 名字 - - 化疗 之路 . 
+[u'\u75c5\u4eba \u4eec \u751a\u81f3 \u7ed9 \u5b83 \u8d77 \u4e86 \u540d\u5b57 - - \u5316\u7597 \u4e4b\u8def .']
+{'targetLang': 'pt', 'text': u'\u5f53 \u533b\u9662 \u6700 \u5f00\u59cb \u6ce8\u610f\u5230 \u8fd9 \u6761 \u5c0f\u8def \u7684 \u65f6\u5019 \u4ed6\u4eec \u7ed9 \u8fd9 \u6761 \u8def \u91cd\u65b0 \u94fa\u4e0a \u8349\u76ae , \u5e76 \u6ca1\u6709 \u91cd\u89c6 . ', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+当 医院 最 开始 注意到 这 条 小路 的 时候 他们 给 这 条 路 重新 铺上 草皮 , 并 没有 重视 . 
+[u'\u5f53 \u533b\u9662 \u6700 \u5f00\u59cb \u6ce8\u610f\u5230 \u8fd9 \u6761 \u5c0f\u8def \u7684 \u65f6\u5019 \u4ed6\u4eec \u7ed9 \u8fd9 \u6761 \u8def \u91cd\u65b0 \u94fa\u4e0a \u8349\u76ae , \u5e76 \u6ca1\u6709 \u91cd\u89c6 .']
+{'targetLang': 'pt', 'text': u'\u4f46\u662f \u5f88\u5feb \u5730 , \u4ed6\u4eec \u610f\u8bc6\u5230 \u8fd9 \u6761 \u5c0f\u8def \u7684 \u91cd\u8981\u6027 , \u75c5\u4eba \u771f\u7684 \u9700\u8981 \u8d70 \u8fd9 \u6761 \u8def \u4e8e\u662f \u4ed6\u4eec \u628a \u8fd9 \u6761 \u8def \u94fa \u4e86 \u51fa\u6765 ', 'alignmentInfo': 'true', 'sourceLang': 'zh', 'action': 'translate', 'nBestSize': 1}
+但是 很快 地 , 他们 意识到 这 条 小路 的 重要性 , 病人 真的 需要 走 这 条 路 于是 他们 把 这 条 路 铺 了 出来 
+[u'\u4f46\u662f \u5f88\u5feb \u5730 , \u4ed6\u4eec \u610f\u8bc6\u5230 \u810.119.181.207 - - [30/Mar/2017 12:47:44] "POST / HTTP/1.1" 200 -
+2017-03-30 12:47:44,044 - worker - New translate task
+10.119.181.207 - - [30/Mar/2017 12:47:45] "POST / HTTP/1.1" 200 -
